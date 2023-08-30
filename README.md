@@ -27,7 +27,9 @@ El curso consta de cuatro unidades principales:
 ### Incidencia del proyecto
 
 ### Prevalencia del proyecto
-
+Un total de 2,459 lesiones relacionadas a los quistes fueron documentados en un Servicio de Diágnostico Oral en el Sudeste de Brasil, 
+de lo cual se diagnosticó a 60 pacientes con quisteo óseo simple, siendo así, un 2,4% de la muestra realizada. 
+Mucho de los casos 
 ### Rango de edad más afectado
 
 ### Porcentaje de LATAM más afectado
