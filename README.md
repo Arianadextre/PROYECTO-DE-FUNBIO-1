@@ -26,7 +26,7 @@ El curso consta de cuatro unidades principales:
 
 ### Incidencia del proyecto
 El quiste óseo simple es una lesión que ocurre en los huesos principalmente largos, específicamente en las zonas cercanas a las placas de crecimiento en los huesos en desarrollo.
-Si bien la incidencia varía según la región estudiada, estos quistes se presentan con mayor frecuencia en personas jóvenes, en su niños o adolescentes. 
+Si bien la incidencia varía según la región estudiada, estos quistes se presentan con mayor frecuencia en personas jóvenes, en niños o adolescentes (este sector ocupa el 65%). 
 ### Prevalencia del proyecto
 Un total de 2,459 lesiones relacionadas a los quistes fueron documentados en un Servicio de Diágnostico Oral en el Sudeste de Brasil, 
 de lo cual se diagnosticó a 60 pacientes con quisteo óseo simple, siendo así, un 2.4% de la muestra realizada. 
