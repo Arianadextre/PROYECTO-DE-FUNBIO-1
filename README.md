@@ -41,7 +41,7 @@ con enclavado endomedular" para el cual evaluan 48 pacientes, de quienes su prom
 ### Porcentaje de LATAM más afectado
 
 ### Proyectos novedosos relacionados al proyecto
-
+Los quistes óseos aneurismáticos (ABC) y simples (SBC) se han distinguido tradicionalmente por sus características radiológicas e histopatológicas. Sin embargo, existe cierta superposición radiológica e histopatológica entre estos. Haciendo que la interpretacion puede ser problemática debido a la fractura superpuesta que hace que se parezcan a quistes óseos  y otros tumores.
 
 
 
