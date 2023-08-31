@@ -9,7 +9,7 @@ Proyecto:
 - Incidencia del proyecto
 - Prevalencia del proyecto
 - Rango de edad más afectado
-- Ttratamientos más usados
+- Tratamientos más usados
 - Proyectos novedosos relacionados al proyecto 
 - Docentes del curso
 - Bibliografía
