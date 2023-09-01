@@ -30,9 +30,10 @@ Si bien la incidencia varía según la región estudiada, estos quistes se prese
 de lo cual se diagnosticó a 60 pacientes con quisteo óseo simple, siendo así, un 2.4% de la muestra realizada. 
 La mayoría de los casos fueron asintomáticos, específicamente unos 49 de 60 pacientes, el cual representa un 81,7%.
 En los casos sintómaticos, 10 pacientes que representa un 16.6%, refirieron dolor o hinchazón; y solo una persona refirió ambos 
-síntomas juntos, lo que representa un 1.7%. [8]
+síntomas juntos, lo que representa un 1.7%.[8]
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/5729607d-105b-4fc3-bdea-679b8b524ace)
+
 Las imágenes mostradas se obtuvieron a través de un paciente. 
 En la imagen A, podemos apreciar el aspecto intraoral del quiste óseo simple anterior. [8]
 En la imagen B, podemos apreciar el aspecto radiográfico sagital del quiste óseo simple. [8]
