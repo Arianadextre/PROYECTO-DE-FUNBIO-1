@@ -85,3 +85,5 @@ Recientemente se han detectado fusiones EWSR1 – NFATC2 o FUS – NFATC2 , que 
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473432/
 
 - Hung, Y. P., Fisch, A. S., Diaz-Perez, J. A., Iafrate, A. J., Lennerz, J. K., Nardi, V., Bredella, M. A., Raskin, K. A., Lozano-Calderon, S., Rosenberg, A. E., & Nielsen, G. P. (2021). Identification ofEWSR1–NFATC2Fusion in simple bone cysts. Histopathology, 78(6), 849-856. https://doi.org/10.1111/his.14314
+
+- Pižem, J., Šekoranja, D., Matjašič, A., Zupan, A., Boštjančič, E., Novak, K., Salapura, V., Mavčič, B., Gazic, B., & Dimnik, K. (2021). The role of molecular diagnostics in aneurysmal and simple bone cysts – A prospective analysis of 19 lesions. Virchows Archiv, 479(4), 795-802. https://doi.org/10.1007/s00428-021-03130-5
