@@ -33,6 +33,7 @@ de lo cual se diagnosticó a 60 pacientes con quisteo óseo simple, siendo así,
 La mayoría de los casos fueron asintomáticos, específicamente unos 49 de 60 pacientes, el cual representa un 81,7%.
 En los casos sintómaticos, 10 pacientes que representa un 16.6%, refirieron dolor o hinchazón; y solo una persona refirió ambos 
 síntomas juntos, lo que representa un 1.7%.
+
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/5729607d-105b-4fc3-bdea-679b8b524ace)
 
 ### Rango de edad más afectado
