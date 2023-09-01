@@ -25,6 +25,8 @@ El curso consta de cuatro unidades principales:
 ### Incidencia del proyecto
 El quiste óseo simple es una lesión que ocurre en los huesos principalmente largos, específicamente en las zonas cercanas a las placas de crecimiento en los huesos en desarrollo.
 Si bien la incidencia varía según la región estudiada, estos quistes se presentan con mayor frecuencia en personas jóvenes, en niños o adolescentes (este sector ocupa el 65%) (15). 
+Por otro lado según un estudio de parte del hospital universitario de getafe “ Los huesos más afectados son el húmero (aproximadamente el 50% de los casos) y el fémur proximal (40% en algunas series). Otras localizaciones menos frecuentes como la tibia proximal, el peroné, el calcáneo, la escápula, el radio y/o cúbito, los metacarpianos y metatarsianos se observan normalmente en pacientes de mayor edad.”[16]
+
 ### Prevalencia del proyecto
  De acuerdo al especialista Lima Livia, un total de 2,459 lesiones relacionadas a los quistes fueron documentados en un Servicio de Diágnostico Oral en el Sudeste de Brasil, 
 de lo cual se diagnosticó a 60 pacientes con quisteo óseo simple, siendo así, un 2.4% de la muestra realizada. 
@@ -109,7 +111,7 @@ Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  
 [14] Alonso Hernández, J., Abril Martín, J. C., Epeldegui Torre, T., Gil de Rozas, M., & Carrillo Dutor, R. (2003). Tratamiento del quiste óseo simple en la población infantil. Revista espanola de cirugia ortopedica y traumatologia, 47(1), 48–54. https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-tratamiento-del-quiste-oseo-simple-13044129
 
 [15] Ashraf, A. (2023, March 29). Unicameral bone cyst. Radiopaedia; Radiopaedia.org. https://radiopaedia.org/articles/unicameral-bone-cyst-1?lang=us
-
+[16] Cañas, R. R., Bueno Sánchez, A., & Serrano, E. (s/f). Somacot.org. Recuperado el 1 de septiembre de 2023, de https://somacot.org/wp-content/uploads/2023/01/LA-AGRESIVIDAD-DEL-QUISTE-OSEO-SIMPLE.pdf
 
 
 
