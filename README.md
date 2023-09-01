@@ -69,34 +69,34 @@ Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  
 - Julissa Venancio
 
 ### Bibliografía
-1.- Arévalo, S. E. P. (2002). Tratamiento del quiste sinovial con infiltración de metilprednisolona. Redalyc.org.  https://www.redalyc.org/articulo.oa?id=48708307
+[1] Arévalo, S. E. P. (2002). Tratamiento del quiste sinovial con infiltración de metilprednisolona. Redalyc.org.  https://www.redalyc.org/articulo.oa?id=48708307
 
-2.- Hernandez, J., Martín, J. C. A., Torre, T. E., De Rozas, M. G., & Dutor, R. C. (2003). Tratamiento del quiste óseo simple en la población infantil. Revista Española de Cirugía Ortopédica y Traumatología, 47(1), 48-54. https://doi.org/10.1016/s1888-4415(03)76069-x
+[2] Hernandez, J., Martín, J. C. A., Torre, T. E., De Rozas, M. G., & Dutor, R. C. (2003). Tratamiento del quiste óseo simple en la población infantil. Revista Española de Cirugía Ortopédica y Traumatología, 47(1), 48-54. https://doi.org/10.1016/s1888-4415(03)76069-x
 
-3.- Krauthamer, J. C. (s. f.). Tratamiento del quiste óseo simple con curetaje y relleno asistidos por endoscopía ósea - Revista de artroscopía. https://www.revistaartroscopia.com.ar/ediciones-anteriores/32-volumen-05-numero-1/volumen-9-numero-2/496-tratamiento-del-quiste-oseo-simple-con-curetaje-y-relleno-asistidos-por-endoscopia-osea#:~:text=El%20tratamiento%20cl%C3%A1sico%20es%20el,la%20posibilidad%20de%20procedimientos%20posteriores.
+[3] Krauthamer, J. C. (s. f.). Tratamiento del quiste óseo simple con curetaje y relleno asistidos por endoscopía ósea - Revista de artroscopía. https://www.revistaartroscopia.com.ar/ediciones-anteriores/32-volumen-05-numero-1/volumen-9-numero-2/496-tratamiento-del-quiste-oseo-simple-con-curetaje-y-relleno-asistidos-por-endoscopia-osea#:~:text=El%20tratamiento%20cl%C3%A1sico%20es%20el,la%20posibilidad%20de%20procedimientos%20posteriores.
 
-4.- Cruz Sánchez, R. E., Calderón Ubaqui, V., Trevejo Bocanegra, A. P., & Mercado Portal, N. E. (2018). Control imagenológico de un quiste óseo simple: reporte de un caso. Revista Estomatológica Herediana, 28(3), 195. https://doi.org/10.20453/reh.v28i3.3397
+[4] Cruz Sánchez, R. E., Calderón Ubaqui, V., Trevejo Bocanegra, A. P., & Mercado Portal, N. E. (2018). Control imagenológico de un quiste óseo simple: reporte de un caso. Revista Estomatológica Herediana, 28(3), 195. https://doi.org/10.20453/reh.v28i3.3397
 
-5.- Nesrin Saruhan, Kosar Yasin Caglar, & Günay Gojayeva. (2019). The simple bone cyst. 1(1), 023–026. https://doi.org/10.30574/wjarr.2019.1.1.0008 ‌
+[5] Nesrin Saruhan, Kosar Yasin Caglar, & Günay Gojayeva. (2019). The simple bone cyst. 1(1), 023–026. https://doi.org/10.30574/wjarr.2019.1.1.0008 ‌
 
-6.- Lima, L.-B., Antonio, S., Barbosa, F., Servato, S., Rosa, R.-R., Paulo, … Sérgio Vitorino Cardoso. (2020). Simple bone cyst: description of 60 cases seen at a Brazilian School of Dentistry and review of international literature. Medicina Oral Patologia Oral Y Cirugia Bucal, e616–e625. https://doi.org/10.4317/medoral.23638
+[6] Lima, L.-B., Antonio, S., Barbosa, F., Servato, S., Rosa, R.-R., Paulo, … Sérgio Vitorino Cardoso. (2020). Simple bone cyst: description of 60 cases seen at a Brazilian School of Dentistry and review of international literature. Medicina Oral Patologia Oral Y Cirugia Bucal, e616–e625. https://doi.org/10.4317/medoral.23638
 
-7.- Toepfer, A., Strässle, M., Lenze, U., Lenze, F., & Harrasser, N. (2023). Allogenic Cancellous Bone versus Injectable Bone Substitute for Endoscopic Treatment of Simple Bone Cyst and Intraosseous Lipoma of the Calcaneus and Is Intraosseous Lipoma a Developmental Stage of a Simple Bone Cyst? Journal of Clinical Medicine, 12(13), 4272–4272. https://doi.org/10.3390/jcm12134272 ‌ ‌
+[7] Toepfer, A., Strässle, M., Lenze, U., Lenze, F., & Harrasser, N. (2023). Allogenic Cancellous Bone versus Injectable Bone Substitute for Endoscopic Treatment of Simple Bone Cyst and Intraosseous Lipoma of the Calcaneus and Is Intraosseous Lipoma a Developmental Stage of a Simple Bone Cyst? Journal of Clinical Medicine, 12(13), 4272–4272. https://doi.org/10.3390/jcm12134272 ‌ ‌
 
-8.- Lima, L., De Freitas Filho, S. A. J., De Paulo, L. F. B., Servato, J. P. S., Rosa, R., De Faria, P. R., Loyola, A., & Cardoso, S. V. (2020). Simple bone cyst: Description of 60 cases seen at a Brazilian School of Dentistry and review of international literature. Medicina Oral Patologia Oral Y Cirugia Bucal, e616-e625. https://doi.org/10.4317/medoral.23638
+[8] Lima, L., De Freitas Filho, S. A. J., De Paulo, L. F. B., Servato, J. P. S., Rosa, R., De Faria, P. R., Loyola, A., & Cardoso, S. V. (2020). Simple bone cyst: Description of 60 cases seen at a Brazilian School of Dentistry and review of international literature. Medicina Oral Patologia Oral Y Cirugia Bucal, e616-e625. https://doi.org/10.4317/medoral.23638
 
-9.- Hung, Y. P., Fisch, A. S., Diaz-Perez, J. A., Iafrate, A. J., Lennerz, J. K., Nardi, V., Bredella, M. A., Raskin, K. A., Lozano-Calderon, S., Rosenberg, A. E., & Nielsen, G. P. (2021). Identification ofEWSR1–NFATC2Fusion in simple bone cysts. Histopathology, 78(6), 849-856. https://doi.org/10.1111/his.14314
+[9] Hung, Y. P., Fisch, A. S., Diaz-Perez, J. A., Iafrate, A. J., Lennerz, J. K., Nardi, V., Bredella, M. A., Raskin, K. A., Lozano-Calderon, S., Rosenberg, A. E., & Nielsen, G. P. (2021). Identification ofEWSR1–NFATC2Fusion in simple bone cysts. Histopathology, 78(6), 849-856. https://doi.org/10.1111/his.14314
 
-10.- Pižem, J., Šekoranja, D., Matjašič, A., Zupan, A., Boštjančič, E., Novak, K., Salapura, V., Mavčič, B., Gazic, B., & Dimnik, K. (2021). The role of molecular diagnostics in aneurysmal and simple bone cysts – A prospective analysis of 19 lesions. Virchows Archiv, 479(4), 795-802. https://doi.org/10.1007/s00428-021-03130-5
-11.- Lesiones pseudotumorales del esqueleto. (s. f.). Medwave. https://www.medwave.cl/puestadia/cursos/3267.html
+[10] Pižem, J., Šekoranja, D., Matjašič, A., Zupan, A., Boštjančič, E., Novak, K., Salapura, V., Mavčič, B., Gazic, B., & Dimnik, K. (2021). The role of molecular diagnostics in aneurysmal and simple bone cysts – A prospective analysis of 19 lesions. Virchows Archiv, 479(4), 795-802. https://doi.org/10.1007/s00428-021-03130-5
+[11] Lesiones pseudotumorales del esqueleto. (s. f.). Medwave. https://www.medwave.cl/puestadia/cursos/3267.html
 
-12.- Masquijo, J. J., Baroni, E., Gómez, A., Miscione, H., & Garrahan, J. P. (s/f). Tratamiento del quiste óseo simple de los huesos largos con enclavado endomedular. Org.ar. Recuperado el 1 de septiembre de 2023, de https://www.aaot.org.ar/revista/2008/n1_vol73/art06.pdf
+[12] Masquijo, J. J., Baroni, E., Gómez, A., Miscione, H., & Garrahan, J. P. (s/f). Tratamiento del quiste óseo simple de los huesos largos con enclavado endomedular. Org.ar. Recuperado el 1 de septiembre de 2023, de https://www.aaot.org.ar/revista/2008/n1_vol73/art06.pdf
 
-13.- Suárez-Suárez, M. A., Maestro Fernández, A., Mazón, A. M., Guerra García, C., Cortina, G. A., & García, J. M. (1998). Quiste óseo simple: estudio comparativo de diferentes métodos de tratamiento. Cirugia-osteoarticular.org. http://www.cirugia-osteoarticular.org/adaptingsystem/intercambio/revistas/articulos/56_articulo71.pdf
+[13] Suárez-Suárez, M. A., Maestro Fernández, A., Mazón, A. M., Guerra García, C., Cortina, G. A., & García, J. M. (1998). Quiste óseo simple: estudio comparativo de diferentes métodos de tratamiento. Cirugia-osteoarticular.org. http://www.cirugia-osteoarticular.org/adaptingsystem/intercambio/revistas/articulos/56_articulo71.pdf
 
-14.- Alonso Hernández, J., Abril Martín, J. C., Epeldegui Torre, T., Gil de Rozas, M., & Carrillo Dutor, R. (2003). Tratamiento del quiste óseo simple en la población infantil. Revista espanola de cirugia ortopedica y traumatologia, 47(1), 48–54. https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-tratamiento-del-quiste-oseo-simple-13044129
+[14] Alonso Hernández, J., Abril Martín, J. C., Epeldegui Torre, T., Gil de Rozas, M., & Carrillo Dutor, R. (2003). Tratamiento del quiste óseo simple en la población infantil. Revista espanola de cirugia ortopedica y traumatologia, 47(1), 48–54. https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-tratamiento-del-quiste-oseo-simple-13044129
 
-15.- Ashraf, A. (2023, March 29). Unicameral bone cyst. Radiopaedia; Radiopaedia.org. https://radiopaedia.org/articles/unicameral-bone-cyst-1?lang=us
+[15] Ashraf, A. (2023, March 29). Unicameral bone cyst. Radiopaedia; Radiopaedia.org. https://radiopaedia.org/articles/unicameral-bone-cyst-1?lang=us
 
 
 
