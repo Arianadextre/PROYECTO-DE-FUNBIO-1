@@ -5,7 +5,6 @@ Proyecto:
 ## Tabla de contenido
 - [Objetivo del curso](#Objetivo-del-curso)
 - [Contenido del curso](#Contenido-del-curso)
-- [Temática a desarrollar](#Temática-a-desarrollar)
 - [Incidencia del proyecto](#Incidencia-del-proyecto)
 - [Prevalencia del proyecto](#Prevalencia-del-proyecto)
 - [Rango de edad más afectado](#Rango-de-edad-más-afectado)
@@ -22,7 +21,6 @@ El curso consta de cuatro unidades principales:
 - Unidad 2: Crea conceptos de solución
 - Unidad 3: Desarrolla la solución
 - Unidad 4: Comunica los resultados 
-### Temática a desarrollar
 
 ### Incidencia del proyecto
 El quiste óseo simple es una lesión que ocurre en los huesos principalmente largos, específicamente en las zonas cercanas a las placas de crecimiento en los huesos en desarrollo.
