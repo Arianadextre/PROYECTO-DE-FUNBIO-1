@@ -3,7 +3,7 @@ Bienvenidos al repositorio del Grupo 5 del curso de Fundamentos de biodiseño
 Proyecto:
 
 ## Tabla de contenido
-- [ Objetivo del curso ]
+- Objetivo del curso
 - Contenido del curso
 - Temática a desarrollar
 - Incidencia del proyecto
@@ -14,7 +14,7 @@ Proyecto:
 - Docentes del curso
 - Bibliografía
 
-### [ Objetivo del curso ]
+### Objetivo del curso
 En este curso se introducirá al estudiante al desarrollo de proyectos en el campo de la ingeniería a través del diseño de soluciones que atienden una necesidad en salud, aplicando el proceso de Diseño Determinístico en Ingeniería y VDI.
 ### Contenido del curso
 El curso consta de cuatro unidades principales:
