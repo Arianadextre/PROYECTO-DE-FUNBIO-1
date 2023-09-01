@@ -4,15 +4,15 @@ Proyecto:
 
 ## Tabla de contenido
 - [Objetivo del curso](#Objetivo-del-curso)
-- Contenido del curso
-- Temática a desarrollar
-- Incidencia del proyecto
-- Prevalencia del proyecto
-- Rango de edad más afectado
-- Tratamientos más usados
-- Proyectos novedosos relacionados al proyecto 
-- Docentes del curso
-- Bibliografía
+- [Contenido del curso](#Contenido-del-curso)
+- [Temática a desarrollar](#Temática-a-desarrollar)
+- [Incidencia del proyecto](#Incidencia-del-proyecto)
+- [Prevalencia del proyecto](#Prevalencia-del-proyecto)
+- [Rango de edad más afectado](#Rango-de-edad-más-afectado)
+- [Tratamientos más usados](#Tratamientos-más-usados)
+- [Proyectos novedosos relacionados al proyecto](#Proyectos-novedosos-relacionados-al-proyecto) 
+- [Docentes del curso](#Docentes-del-curso)
+- [Bibliografía](#Bibliografía)
 
 ### Objetivo del curso
 En este curso se introducirá al estudiante al desarrollo de proyectos en el campo de la ingeniería a través del diseño de soluciones que atienden una necesidad en salud, aplicando el proceso de Diseño Determinístico en Ingeniería y VDI.
