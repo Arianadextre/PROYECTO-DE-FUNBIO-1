@@ -26,7 +26,7 @@ El curso consta de cuatro unidades principales:
 El quiste óseo simple es una lesión que ocurre en los huesos principalmente largos, específicamente en las zonas cercanas a las placas de crecimiento en los huesos en desarrollo.
 Si bien la incidencia varía según la región estudiada, estos quistes se presentan con mayor frecuencia en personas jóvenes, en niños o adolescentes (este sector ocupa el 65%). 
 ### Prevalencia del proyecto
-Un total de 2,459 lesiones relacionadas a los quistes fueron documentados en un Servicio de Diágnostico Oral en el Sudeste de Brasil, 
+(8) De acuerdo al especialita Lima Livia, un total de 2,459 lesiones relacionadas a los quistes fueron documentados en un Servicio de Diágnostico Oral en el Sudeste de Brasil, 
 de lo cual se diagnosticó a 60 pacientes con quisteo óseo simple, siendo así, un 2.4% de la muestra realizada. 
 La mayoría de los casos fueron asintomáticos, específicamente unos 49 de 60 pacientes, el cual representa un 81,7%.
 En los casos sintómaticos, 10 pacientes que representa un 16.6%, refirieron dolor o hinchazón; y solo una persona refirió ambos 
