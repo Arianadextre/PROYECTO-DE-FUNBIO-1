@@ -35,9 +35,13 @@ síntomas juntos, lo que representa un 1.7%.[8]
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/5729607d-105b-4fc3-bdea-679b8b524ace)
 
 Las imágenes mostradas se obtuvieron a través de un paciente del cual se pudo evidenciar múltiples lesiones asociadas al SBC (Simple bone cyst)
+
 En la imagen A, podemos apreciar el aspecto intraoral del quiste óseo simple anterior. [8]
+
 En la imagen B, podemos apreciar el aspecto radiográfico sagital del quiste óseo simple. [8]
+
 En la imagen C, podemos visualizar una radiografía panorámica que muestra lesión de SBC en la porción anterior de la mandíbula. [8]
+
 En la imagen D, podemos visualizar una radiografía periapical que presenta márgenes festoneados entre elementos dentarios. [8]
 
 ### Rango de edad más afectado
