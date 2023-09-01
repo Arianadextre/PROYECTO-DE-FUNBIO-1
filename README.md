@@ -11,7 +11,7 @@ Proyecto:
 - [Rango de edad más afectado](#Rango-de-edad-más-afectado)
 - [Tratamientos más usados](#Tratamientos-más-usados)
 - [Proyectos novedosos relacionados al proyecto](#Proyectos-novedosos-relacionados-al-proyecto) 
-- [Docentes del curso](#Docentes-del-curso)
+- [Profesores del curso](#Profesores-del-curso)
 - [Bibliografía](#Bibliografía)
 
 ### Objetivo del curso
