@@ -81,4 +81,5 @@ Recientemente se han detectado fusiones EWSR1 – NFATC2 o FUS – NFATC2 , que 
 
 -Toepfer, A., Strässle, M., Lenze, U., Lenze, F., & Harrasser, N. (2023). Allogenic Cancellous Bone versus Injectable Bone Substitute for Endoscopic Treatment of Simple Bone Cyst and Intraosseous Lipoma of the Calcaneus and Is Intraosseous Lipoma a Developmental Stage of a Simple Bone Cyst? Journal of Clinical Medicine, 12(13), 4272–4272. https://doi.org/10.3390/jcm12134272 ‌ ‌
 
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473432/
 
