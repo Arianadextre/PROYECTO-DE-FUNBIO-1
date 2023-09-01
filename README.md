@@ -82,7 +82,7 @@ Recientemente se han detectado fusiones EWSR1 – NFATC2 o FUS – NFATC2 , que 
 
 -Toepfer, A., Strässle, M., Lenze, U., Lenze, F., & Harrasser, N. (2023). Allogenic Cancellous Bone versus Injectable Bone Substitute for Endoscopic Treatment of Simple Bone Cyst and Intraosseous Lipoma of the Calcaneus and Is Intraosseous Lipoma a Developmental Stage of a Simple Bone Cyst? Journal of Clinical Medicine, 12(13), 4272–4272. https://doi.org/10.3390/jcm12134272 ‌ ‌
 
-- Lima, L., De Freitas Filho, S. A. J., De Paulo, L. F. B., Servato, J. P. S., Rosa, R., De Faria, P. R., Loyola, A., & Cardoso, S. V. (2020). Simple bone cyst: Description of 60 cases seen at a Brazilian School of Dentistry and review of international literature. Medicina Oral Patologia Oral Y Cirugia Bucal, e616-e625. https://doi.org/10.4317/medoral.23638
+-Lima, L., De Freitas Filho, S. A. J., De Paulo, L. F. B., Servato, J. P. S., Rosa, R., De Faria, P. R., Loyola, A., & Cardoso, S. V. (2020). Simple bone cyst: Description of 60 cases seen at a Brazilian School of Dentistry and review of international literature. Medicina Oral Patologia Oral Y Cirugia Bucal, e616-e625. https://doi.org/10.4317/medoral.23638
 
 -Hung, Y. P., Fisch, A. S., Diaz-Perez, J. A., Iafrate, A. J., Lennerz, J. K., Nardi, V., Bredella, M. A., Raskin, K. A., Lozano-Calderon, S., Rosenberg, A. E., & Nielsen, G. P. (2021). Identification ofEWSR1–NFATC2Fusion in simple bone cysts. Histopathology, 78(6), 849-856. https://doi.org/10.1111/his.14314
 
