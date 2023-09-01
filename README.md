@@ -88,3 +88,14 @@ Recientemente se han detectado fusiones EWSR1 – NFATC2 o FUS – NFATC2 , que 
 9.- Hung, Y. P., Fisch, A. S., Diaz-Perez, J. A., Iafrate, A. J., Lennerz, J. K., Nardi, V., Bredella, M. A., Raskin, K. A., Lozano-Calderon, S., Rosenberg, A. E., & Nielsen, G. P. (2021). Identification ofEWSR1–NFATC2Fusion in simple bone cysts. Histopathology, 78(6), 849-856. https://doi.org/10.1111/his.14314
 
 10.- Pižem, J., Šekoranja, D., Matjašič, A., Zupan, A., Boštjančič, E., Novak, K., Salapura, V., Mavčič, B., Gazic, B., & Dimnik, K. (2021). The role of molecular diagnostics in aneurysmal and simple bone cysts – A prospective analysis of 19 lesions. Virchows Archiv, 479(4), 795-802. https://doi.org/10.1007/s00428-021-03130-5
+11.- Lesiones pseudotumorales del esqueleto. (s. f.). Medwave. https://www.medwave.cl/puestadia/cursos/3267.html
+
+12.- Masquijo, J. J., Baroni, E., Gómez, A., Miscione, H., & Garrahan, J. P. (s/f). Tratamiento del quiste óseo simple de los huesos largos con enclavado endomedular. Org.ar. Recuperado el 1 de septiembre de 2023, de https://www.aaot.org.ar/revista/2008/n1_vol73/art06.pdf
+
+13.- Suárez-Suárez, M. A., Maestro Fernández, A., Mazón, A. M., Guerra García, C., Cortina, G. A., & García, J. M. (1998). Quiste óseo simple: estudio comparativo de diferentes métodos de tratamiento. Cirugia-osteoarticular.org. http://www.cirugia-osteoarticular.org/adaptingsystem/intercambio/revistas/articulos/56_articulo71.pdf
+
+14.- Alonso Hernández, J., Abril Martín, J. C., Epeldegui Torre, T., Gil de Rozas, M., & Carrillo Dutor, R. (2003). Tratamiento del quiste óseo simple en la población infantil. Revista espanola de cirugia ortopedica y traumatologia, 47(1), 48–54. https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-tratamiento-del-quiste-oseo-simple-13044129
+
+
+
+
