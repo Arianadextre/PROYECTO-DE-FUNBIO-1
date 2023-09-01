@@ -39,7 +39,7 @@ síntomas juntos, lo que representa un 1.7%.[8]
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/5729607d-105b-4fc3-bdea-679b8b524ace)
 
 Figura 1. 
-Nota. Adaptado de Quiste óseo simple: descripción de 60 casos atendidos en una Facultad de Odontología de Brasil y revisión de la literatura internacional (imagen) 
+Nota. Adaptado de Quiste óseo simple: descripción de 60 casos atendidos en una Facultad de Odontología de Brasil y revisión de la literatura internacional (imagen) por Pubmed Central. 
 
 Las imágenes mostradas se obtuvieron a través de un paciente del cual se pudo evidenciar múltiples lesiones asociadas al SBC (Simple bone cyst).
 
