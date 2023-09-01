@@ -38,7 +38,7 @@ Las imágenes mostradas se obtuvieron a través de un paciente del cual se pudo 
 
 En la imagen A, podemos apreciar el aspecto intraoral del quiste óseo simple anterior. [8]
 
-En la imagen B, podemos apreciar el aspecto radiográfico sagital del quiste óseo simple. [8]
+En la imagen B, podemos apreciar el aspecto radiográfico sagital del SBC. [8]
 
 En la imagen C, podemos visualizar una radiografía panorámica que muestra lesión de SBC en la porción anterior de la mandíbula. [8]
 
