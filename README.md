@@ -96,6 +96,8 @@ Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  
 
 14.- Alonso Hernández, J., Abril Martín, J. C., Epeldegui Torre, T., Gil de Rozas, M., & Carrillo Dutor, R. (2003). Tratamiento del quiste óseo simple en la población infantil. Revista espanola de cirugia ortopedica y traumatologia, 47(1), 48–54. https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-tratamiento-del-quiste-oseo-simple-13044129
 
+15.- Ashraf, A. (2023, March 29). Unicameral bone cyst. Retrieved September 1, 2023, from Radiopaedia website: https://radiopaedia.org/articles/unicameral-bone-cyst-1?lang=us
+
 
 
 
