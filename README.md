@@ -71,19 +71,21 @@ Para esta enfermedad, el tratamiento puede variar dependiendo de la edad, especi
 Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  sus características radiológicas e histopatológicas [9]. Sin embargo, existe cierta superposición de estas características apreciables entre estos que hace que la interpretación puede ser problemática debido a la fractura superpuesta que hace que se puedan parecer a quistes óseos y a otros tumores. Recientemente se han detectado fusiones EWSR1 – NFATC2 o FUS – NFATC2 [10], que son características de un subconjunto de sarcomas agresivos de células redondas, en quistes óseos simples, mediante la detección de estas fusiones, se puede detectar de mejor manera el tipo de lesión.
 
 ### Funcionales. ¿Qué debe hacer mi diseño?
-- [X] Reconocer quistes óseos simple con eficacia
+- [X] Reconocer quistes óseos simple con mayor eficacia
 - [X] Alertar si se presentan complicaciones en el paciente
 - [X] Brindar un monitoreo frecuente al paciente
+- [X] Optimizar la detección temprana de los quistes óseos
 
 ### No Funcionales. ¿Qué propiedades debe poseer nuestro diseño?
 - [X] Poseer un costo asequible
 - [X] Ser de un fácil manejo
 - [X] Brindar un diagnóstico veloz
 - [X] Ser independiente a una conexión a internet
-- [ ] 
+- [X] Tener más facilidad de transporte
+- [X] Ser más accesible en costo y uso
 
 ### Propuesta de solución
-
+Optimizar la detección de quistes óseos simples a través de una máquina de ecografía, dicha máquina estará más enfocada en la detección del mismo, en un monitoreo constante y al ser más portátil prodrá llegar de manera más directa a nuestro público objetivo. 
 ### Integrantes del proyecto
 
 - Alexander Martinez (Colaborador - Encargado de investigación) - alexander.martinez@upch.pe
