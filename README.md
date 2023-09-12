@@ -73,7 +73,7 @@ Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  
 ### Funcionales. ¿Qué debe hacer mi diseño?
 - [X] Reconocer quistes óseos simple con eficacia
 - [X] Alertar si se presentan complicaciones en el paciente
-- [X] Brindarle un monitoreo frecuente 
+- [X] Brindar un monitoreo frecuente al paciente
 
 ### No Funcionales. ¿Qué propiedades debe poseer nuestro diseño?
 - [X] Poseer un costo asequible
