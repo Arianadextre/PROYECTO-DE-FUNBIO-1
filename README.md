@@ -13,6 +13,8 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 - [Tratamientos más usados](#Tratamientos-más-usados)
 - [Proyectos novedosos relacionados al proyecto](#Proyectos-novedosos-relacionados-al-proyecto)
 - [Funcionales. ¿Qué debe hacer mi diseño?](#Funcionales-¿-Qué-debe-hacer-mi-diseño-?-)
+- No Funcionales. ¿Qué propiedades debe poseer nuestro diseño?
+- Propuesta de solución
 - [Profesores del curso](#Profesores-del-curso)
 - [Bibliografía](#Bibliografía)
 
