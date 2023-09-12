@@ -12,7 +12,7 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 - [Rango de edad más afectado](#Rango-de-edad-más-afectado)
 - [Tratamientos más usados](#Tratamientos-más-usados)
 - [Proyectos novedosos relacionados al proyecto](#Proyectos-novedosos-relacionados-al-proyecto)
-- [Funcionales. ¿Qué debe hacer mi diseño?](#Funcionales-¿-Qué-debe-hacer-mi-diseño?)
+- [Funcionales. ¿Qué debe hacer mi diseño?](#Funcionales-¿-Qué-debe-hacer-mi-diseño-?-)
 - [Profesores del curso](#Profesores-del-curso)
 - [Bibliografía](#Bibliografía)
 
