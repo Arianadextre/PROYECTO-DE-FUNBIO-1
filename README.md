@@ -79,7 +79,7 @@ Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  
 - [X] Poseer un costo asequible
 - [X] Ser de un fácil manejo
 - [X] Brindar un diagnóstico veloz
-- [X] Ser independiente de una conexión a internet
+- [X] Ser independiente a una conexión a internet
 - [ ] 
 
 ### Propuesta de solución
