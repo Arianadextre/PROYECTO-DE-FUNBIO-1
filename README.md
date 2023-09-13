@@ -74,7 +74,8 @@ Para esta enfermedad, el tratamiento puede variar dependiendo de la edad, especi
 Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  sus características radiológicas e histopatológicas [9]. Sin embargo, existe cierta superposición de estas características apreciables entre estos que hace que la interpretación puede ser problemática debido a la fractura superpuesta que hace que se puedan parecer a quistes óseos y a otros tumores. Recientemente se han detectado fusiones EWSR1 – NFATC2 o FUS – NFATC2 [10], que son características de un subconjunto de sarcomas agresivos de células redondas, en quistes óseos simples, mediante la detección de estas fusiones, se puede detectar de mejor manera el tipo de lesión.
 ### Estado del arte
 
-- ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/c1724308-fa4a-4685-9645-dfc7b1393e71)
+- ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/cbd53e91-06f4-49e9-b28d-49f055029544)
+
 - ![Uploading image.png…]()
 
 
