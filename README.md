@@ -75,6 +75,8 @@ Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  
 ### Estado del arte
 
 - ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/c1724308-fa4a-4685-9645-dfc7b1393e71)
+- ![Uploading image.png…]()
+
 
  
 ### Funcionales. ¿Qué debe hacer mi diseño?
@@ -103,7 +105,6 @@ Optimizar la detección de quistes óseos simples a través de una máquina de e
 
 ### Foto grupal
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/9c4d10c4-d440-4660-bf58-767274844a8a)
 
 
 ### Profesores del curso
