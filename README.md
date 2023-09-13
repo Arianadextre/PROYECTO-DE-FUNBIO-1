@@ -76,7 +76,7 @@ Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  
 
 - ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/cbd53e91-06f4-49e9-b28d-49f055029544)
 - ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/b92aceca-6d5b-4384-897e-25f3565ec395)
-
+- ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/62a22789-67aa-4e83-8a9f-4add8684486f)
 
 
  
