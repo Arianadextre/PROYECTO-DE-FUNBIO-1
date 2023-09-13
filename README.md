@@ -15,7 +15,7 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 - [Funcionales. ¿Qué debe hacer mi diseño?](#Funcionales-¿-Qué-debe-hacer-mi-diseño-?-)
 - No Funcionales. ¿Qué propiedades debe poseer nuestro diseño?
 - Propuesta de solución
-- #Estado del arte
+- #Estado-del-arte
 - Equipos y dispositivos en el mercado
 - Patentes de invencioón/utilidad
 - [Profesores del curso](#Profesores-del-curso)
