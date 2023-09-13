@@ -12,12 +12,14 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 - [Rango de edad más afectado](#Rango-de-edad-más-afectado)
 - [Tratamientos más usados](#Tratamientos-más-usados)
 - [Proyectos novedosos relacionados al proyecto](#Proyectos-novedosos-relacionados-al-proyecto)
-- [Funcionales. ¿Qué debe hacer mi diseño?](#Funcionales-¿-Qué-debe-hacer-mi-diseño-?-)
-- [No Funcionales. ¿Qué propiedades debe poseer nuestro diseño?](#No-Funcionales.-¿Qué-propiedades-debe-poseer-nuestro-diseño?)
+- [Funcionales ¿Qué debe hacer mi diseño?](#Funcionales-¿-Qué-debe-hacer-mi-diseño-?)
+- [No Funcionales ¿Qué propiedades debe poseer nuestro diseño?](#No-Funcionales-¿Qué-propiedades-debe-poseer-nuestro-diseño?)
 - [Propuesta de solución](#Propuesta-de-solución)
 - [Estado del arte](#Estado-del-arte)
+- [Integrantes del proyecto](#Integrantes-del-proyecto)
+- [Foto grupal](#Foto-grupal)
 - [Equipos y dispositivos en el mercado](Equipos-y-dispositivos-en-el-mercado)
-- [Patentes de invencioón/utilidad](Patentes-de-invencioón/utilidad)
+- [Patentes de invención/utilidad](Patentes-de-invención/utilidad)
 - [Profesores del curso](#Profesores-del-curso)
 - [Bibliografía](#Bibliografía)
 
@@ -76,17 +78,17 @@ Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  
 
 - ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/cbd53e91-06f4-49e9-b28d-49f055029544)
 - ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/b92aceca-6d5b-4384-897e-25f3565ec395)
-- ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/62a22789-67aa-4e83-8a9f-4add8684486f)
+
 
 
  
-### Funcionales. ¿Qué debe hacer mi diseño?
+### Funcionales ¿Qué debe hacer mi diseño?
 - [X] Reconocer quistes óseos simple con mayor eficacia
 - [X] Alertar si se presentan complicaciones en el paciente
 - [X] Brindar un monitoreo frecuente al paciente
 - [X] Optimizar la detección temprana de los quistes óseos
 
-### No Funcionales. ¿Qué propiedades debe poseer nuestro diseño?
+### No Funcionales ¿Qué propiedades debe poseer nuestro diseño?
 - [X] Poseer un costo asequible
 - [X] Ser de un fácil manejo
 - [X] Brindar un diagnóstico veloz
@@ -107,6 +109,10 @@ Optimizar la detección de quistes óseos simples a través de una máquina de e
 ### Foto grupal
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
 
+### Equipos y dispositivos en el mercado
+- AWEDDWDAD
+### Patentes de invención/utilidad
+- ASDDSSADDSA
 
 ### Profesores del curso
 
@@ -146,6 +152,3 @@ Optimizar la detección de quistes óseos simples a través de una máquina de e
 
 [15] Ashraf, A. (2023, March 29). Unicameral bone cyst. Radiopaedia; Radiopaedia.org. https://radiopaedia.org/articles/unicameral-bone-cyst-1?lang=us
 [16] Cañas, R. R., Bueno Sánchez, A., & Serrano, E. (s/f). Somacot.org. Recuperado el 1 de septiembre de 2023, de https://somacot.org/wp-content/uploads/2023/01/LA-AGRESIVIDAD-DEL-QUISTE-OSEO-SIMPLE.pdf
-
-
-
