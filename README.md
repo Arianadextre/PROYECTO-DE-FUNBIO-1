@@ -103,6 +103,8 @@ Optimizar la detección de quistes óseos simples a través de una máquina de e
 
 ### Foto grupal
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/9c4d10c4-d440-4660-bf58-767274844a8a)
+
 
 ### Profesores del curso
 
