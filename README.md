@@ -105,10 +105,6 @@ El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte
 ### Foto grupal
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
 
-### Equipos y dispositivos en el mercado
-- AWEDDWDAD
-### Patentes de invención/utilidad
-- ASDDSSADDSA
 
 ### Profesores del curso
 
