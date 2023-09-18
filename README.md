@@ -38,8 +38,8 @@ Si bien la incidencia varía según la región estudiada, estos quistes se prese
 Por otro lado según un estudio de parte del hospital universitario de getafe “ Los huesos más afectados son el húmero (aproximadamente el 50% de los casos) y el fémur proximal (40% en algunas series). Otras localizaciones menos frecuentes como la tibia proximal, el peroné, el calcáneo, la escápula, el radio y/o cúbito, los metacarpianos y metatarsianos se observan normalmente en pacientes de mayor edad.”[16]
 
 ### Prevalencia del proyecto
-Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, se determinó lo siguiente:
-150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), y 
+Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, con lo cual se determinó lo siguiente:
+150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), 150 pacientes de 60 años o más no sufrían DM2. Cabe recalcar que se tuvieron que excluir 50 pacientes que sufrían pancreatitis.
 
 
 Figura 1. 
@@ -128,7 +128,7 @@ Optimizar la detección de quistes óseos simples a través de una máquina de e
 
 [7] Toepfer, A., Strässle, M., Lenze, U., Lenze, F., & Harrasser, N. (2023). Allogenic Cancellous Bone versus Injectable Bone Substitute for Endoscopic Treatment of Simple Bone Cyst and Intraosseous Lipoma of the Calcaneus and Is Intraosseous Lipoma a Developmental Stage of a Simple Bone Cyst? Journal of Clinical Medicine, 12(13), 4272–4272. https://doi.org/10.3390/jcm12134272 ‌ ‌
 
-[8] Lima, L., De Freitas Filho, S. A. J., De Paulo, L. F. B., Servato, J. P. S., Rosa, R., De Faria, P. R., Loyola, A., & Cardoso, S. V. (2020). Simple bone cyst: Description of 60 cases seen at a Brazilian School of Dentistry and review of international literature. Medicina Oral Patologia Oral Y Cirugia Bucal, e616-e625. https://doi.org/10.4317/medoral.23638
+[8] 1.	Ortiz Romaní KJ, Morales Quiroz KC, Velásquez Rosas JG, Ortiz Montalvo YJ. Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú. Gerokomos [Internet]. 2021 [citado el 18 de septiembre de 2023];32(3):159–63. Disponible en: https://scielo.isciii.es/scielo.php?pid=S1134-928X2021000400005&script=sci_arttext&tlng=pt
 
 [9] Hung, Y. P., Fisch, A. S., Diaz-Perez, J. A., Iafrate, A. J., Lennerz, J. K., Nardi, V., Bredella, M. A., Raskin, K. A., Lozano-Calderon, S., Rosenberg, A. E., & Nielsen, G. P. (2021). Identification ofEWSR1–NFATC2Fusion in simple bone cysts. Histopathology, 78(6), 849-856. https://doi.org/10.1111/his.14314
 
