@@ -38,11 +38,8 @@ Si bien la incidencia varía según la región estudiada, estos quistes se prese
 Por otro lado según un estudio de parte del hospital universitario de getafe “ Los huesos más afectados son el húmero (aproximadamente el 50% de los casos) y el fémur proximal (40% en algunas series). Otras localizaciones menos frecuentes como la tibia proximal, el peroné, el calcáneo, la escápula, el radio y/o cúbito, los metacarpianos y metatarsianos se observan normalmente en pacientes de mayor edad.”[16]
 
 ### Prevalencia del proyecto
- De acuerdo al especialista Lima Livia, un total de 2,459 lesiones relacionadas a los quistes fueron documentados en un Servicio de Diágnostico Oral en el Sudeste de Brasil, 
-de lo cual se diagnosticó a 60 pacientes con quisteo óseo simple, siendo así, un 2.4% de la muestra realizada. 
-La mayoría de los casos fueron asintomáticos, específicamente unos 49 de 60 pacientes, el cual representa un 81,7%.
-En los casos sintómaticos, 10 pacientes que representa un 16.6%, refirieron dolor o hinchazón; y solo una persona refirió ambos 
-síntomas juntos, lo que representa un 1.7%.[8]
+De un total de 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, fueron divididos e
+
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/5729607d-105b-4fc3-bdea-679b8b524ace)
 
