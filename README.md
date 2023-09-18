@@ -1,6 +1,6 @@
 Bienvenidos al repositorio del Grupo 5 del curso de Fundamentos de biodiseño
 
-Proyecto: Quiste óseo simple
+Proyecto: Retinopatía diabética
 
 Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1WOzxmcj5gEM_vUs/edit?usp=drive_link&ouid=104110057600449291254&rtpof=true&sd=true
 
@@ -33,9 +33,7 @@ El curso consta de cuatro unidades principales:
 - Unidad 4: Comunica los resultados 
 
 ### Incidencia del proyecto
-El quiste óseo simple es una lesión que ocurre en los huesos principalmente largos, específicamente en las zonas cercanas a las placas de crecimiento en los huesos en desarrollo.
-Si bien la incidencia varía según la región estudiada, estos quistes se presentan con mayor frecuencia en personas jóvenes, en niños o adolescentes (este sector ocupa el 65%) (15). 
-Por otro lado según un estudio de parte del hospital universitario de getafe “ Los huesos más afectados son el húmero (aproximadamente el 50% de los casos) y el fémur proximal (40% en algunas series). Otras localizaciones menos frecuentes como la tibia proximal, el peroné, el calcáneo, la escápula, el radio y/o cúbito, los metacarpianos y metatarsianos se observan normalmente en pacientes de mayor edad.”[16]
+La edad promedio de los participantes al comienzo del estudio se situó en 53.8 años, con un margen de desviación estándar de 9.2 años. En cuanto a la duración de la diabetes mellitus tipo 2, esta fue en promedio de 9 años, con una variación de 6 años. Después de un seguimiento de 12 años, se optó por excluir a 35 pacientes del análisis. Los resultados muestran que la incidencia de eventos a los 3, 6 y 12 años fue del 23%, 48% y 71%, respectivamente. En lo que respecta a la progresión de la enfermedad, se registraron tasas del 56%, 70% y 74% en esos mismos períodos de tiempo. Además, la incidencia y progresión de la retinopatía diabética proliferativa a los 12 años alcanzaron un 14.3% y un 32%, respectivamente. La concentración media de glucosa en sangre se estableció en 193 mg/dl, mientras que la hemoglobina glucosilada promedió un 11%. En términos de mortalidad, el 45% de los participantes falleció, y la mitad de estos decesos fueron atribuibles a un infarto agudo de miocardio.
 
 ### Prevalencia del proyecto
 Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, con lo cual se determinó que 150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), 150 pacientes de 60 años o más no sufrían DM2. Cabe recalcar que se tuvieron que excluir 50 pacientes que sufrían pancreatitis y no tener las historias clínicas completas. Es así, que la muestra total seleccionada fue de 250 adultos mayores.
@@ -136,3 +134,5 @@ https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Contr
 7- https://pdfs.semanticscholar.org/a638/9e311efcce207c99dd3eaa796beaa2fa8620.pdf?_gl=1*1a2un1e*_ga*MTM4Njk0MzQ4LjE2OTUwNjc0MDQ.*_ga_H7P4ZT52H5*MTY5NTA2NzQwMy4xLjEuMTY5NTA2OTMxNC4xMy4wLjA.
 
 8- https://www.semanticscholar.org/paper/Factores-de-riesgo-de-retinopatía-diabética-en-tipo-Espinoza-Sota/a98fc51581b49a5ccdd06d9fc6e059e348c82558
+
+9- Rodríguez-Villalobos E, Cervantes-Aguayo F, Vargas-Salado E, et al. Retinopatía diabética. Incidencia y progresión a 12 años. Cir Cir. 2005;73(2):79-84.
