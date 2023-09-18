@@ -41,8 +41,6 @@ Por otro lado seg煤n un estudio de parte del hospital universitario de getafe 鈥
 De un total de 300 adultos mayores, los cuales pose铆an antecedentes patol贸gicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, fueron divididos e
 
 
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/5729607d-105b-4fc3-bdea-679b8b524ace)
-
 Figura 1. 
 Nota. Adaptado de Quiste 贸seo simple: descripci贸n de 60 casos atendidos en una Facultad de Odontolog铆a de Brasil y revisi贸n de la literatura internacional (imagen) por Pubmed Central. 
 
