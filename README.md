@@ -18,8 +18,6 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 - [Estado del arte](#Estado-del-arte)
 - [Integrantes del proyecto](#Integrantes-del-proyecto)
 - [Foto grupal](#Foto-grupal)
-- [Equipos y dispositivos en el mercado](Equipos-y-dispositivos-en-el-mercado)
-- [Patentes de invención/utilidad](Patentes-de-invención/utilidad)
 - [Profesores del curso](#Profesores-del-curso)
 - [Bibliografía](#Bibliografía)
 
