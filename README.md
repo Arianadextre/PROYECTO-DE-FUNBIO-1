@@ -46,6 +46,7 @@ Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían a
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/2aa18104-2eb7-4467-9f1b-037ea3713e31)
 
 Figura 1. Características generales de los casos (adultos mayores con diabetes mellitus tipo 2) 
+
 Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.
 
 ### Rango de edad más afectado
