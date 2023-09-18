@@ -38,7 +38,8 @@ Si bien la incidencia varía según la región estudiada, estos quistes se prese
 Por otro lado según un estudio de parte del hospital universitario de getafe “ Los huesos más afectados son el húmero (aproximadamente el 50% de los casos) y el fémur proximal (40% en algunas series). Otras localizaciones menos frecuentes como la tibia proximal, el peroné, el calcáneo, la escápula, el radio y/o cúbito, los metacarpianos y metatarsianos se observan normalmente en pacientes de mayor edad.”[16]
 
 ### Prevalencia del proyecto
-De un total de 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, fueron divididos e
+Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, se determinó lo siguiente:
+150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), y 
 
 
 Figura 1. 
