@@ -45,9 +45,8 @@ Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían a
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/2aa18104-2eb7-4467-9f1b-037ea3713e31)
 
-Figura 1. 
-Nota. Adaptado de Quiste óseo simple: descripción de 60 casos atendidos en una Facultad de Odontología de Brasil y revisión de la literatura internacional (imagen) por Pubmed Central. 
-
+Figura 1. Características generales de los casos (adultos mayores con diabetes mellitus tipo 2) 
+Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.
 
 ### Rango de edad más afectado
 La revista médica MEDWAVE publicó un diagrama de barras sobre las incidencias del quiste óseo simple según década de la vida, dichas estadísticas señalan que en las primeras dos décadas de la vida ocurre el 90% de incidencias, en los que hay una mayor frecuencia desde los 0 hasta los 10 años, a partir de los 20 años el porcentaje de casos disminuye notablemente [11]. Años después Masquijo J. et al. publican un articulo llamado "Tratamiento del quiste óseo simple de los huesos largos con enclavado endomedular" para el cual evaluan 48 pacientes, de quienes su promedio de edad era de 10,3 años y su seguimiento promedio de 9.8 años [12], de la misma manera la Revista Española De Cirugía Osteoarticular publicó un estudio titulado "Quiste óseo simple: estudio comparativode diferentes métodos de tratamiento" en el que de 27 quistes diagnosticados y tratados, 12 eran mujeres y 15 varones y su edad de seguimiento promedio era de 13,4 años [13]. Por último Hernándeza J. et al. hicieron un estudio sobre el tratamiento del quiste óseo simple en la población infantil, su rango de edad osciló entre los 2 y 14 años, con una media de edad de 8,3 años y su distribución por sexos fue de 2,2/1 a favor del género masculino asimismo señalan que "El quiste óseo simple (QOS), solitario o unilocular es la lesión quística ósea más frecuente, caracterizada por la afectación de las metáfisis de huesos largos en niños." (p.1)[14]. Tras un análisis de la información expuesta concluimos que el grupo de población más afectada son los niños y niñas, y el rango de edad más afectado oscila entre los 0 y 14 años.
