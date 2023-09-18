@@ -38,9 +38,12 @@ Si bien la incidencia varía según la región estudiada, estos quistes se prese
 Por otro lado según un estudio de parte del hospital universitario de getafe “ Los huesos más afectados son el húmero (aproximadamente el 50% de los casos) y el fémur proximal (40% en algunas series). Otras localizaciones menos frecuentes como la tibia proximal, el peroné, el calcáneo, la escápula, el radio y/o cúbito, los metacarpianos y metatarsianos se observan normalmente en pacientes de mayor edad.”[16]
 
 ### Prevalencia del proyecto
-Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, con lo cual se determinó lo siguiente:
-150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), 150 pacientes de 60 años o más no sufrían DM2. Cabe recalcar que se tuvieron que excluir 50 pacientes que sufrían pancreatitis.
+Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, con lo cual se determinó que 150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), 150 pacientes de 60 años o más no sufrían DM2. Cabe recalcar que se tuvieron que excluir 50 pacientes que sufrían pancreatitis y no tener las historias clínicas completas. Es así, que la muestra total seleccionada fue de 250 adultos mayores.
 
+
+
+
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/2aa18104-2eb7-4467-9f1b-037ea3713e31)
 
 Figura 1. 
 Nota. Adaptado de Quiste óseo simple: descripción de 60 casos atendidos en una Facultad de Odontología de Brasil y revisión de la literatura internacional (imagen) por Pubmed Central. 
