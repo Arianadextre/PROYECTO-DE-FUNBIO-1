@@ -10,7 +10,7 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 - [Incidencia del proyecto](#Incidencia-del-proyecto)
 - [Prevalencia del proyecto](#Prevalencia-del-proyecto)
 - [Rango de edad más afectado](#Rango-de-edad-más-afectado)
-- [Tratamientos más usados](#Tratamientos-más-usados)
+- [Diagnóstico y ratamientos más usados](#Diagnóstico-y-tratamientos-más-usados)
 - [Proyectos novedosos relacionados al proyecto](#Proyectos-novedosos-relacionados-al-proyecto)
 - [Funcionales ¿Qué debe hacer mi diseño?](#Funcionales-¿-Qué-debe-hacer-mi-diseño-?)
 - [No Funcionales ¿Qué propiedades debe poseer nuestro diseño?](#No-Funcionales-¿Qué-propiedades-debe-poseer-nuestro-diseño?)
@@ -58,8 +58,10 @@ Figura 1.
 
 Nota. Adaptado de Lesiones pseudotumorales del esqueleto [imagén] por MEDWABE.
 
-### Tratamientos más usados
-Para esta enfermedad, el tratamiento puede variar dependiendo de la edad, especialmente si el paciente está en etapa de crecimiento, y de el avance del quiste. Los tratamientos más comunes  según la revista sciencedirect[2] y la revista de artroscopia[3] son 3: curetaje e injerto, infiltración con corticoides y curetaje con sanación.  El curetaje con injerto es uno de los procedimientos más usados especialmente cuando el quiste es profundo, trata de la extracción quirúrgica del quiste y el posterior relleno con injerto óseo,esta curación es altamente efectiva pero puede ser recidivante si el quiste no se extrae en su totalidad. Por otro lado, el tratamiento de infiltración  con corticoides es menos invasivo pues trata de una inyección en la zona afectada con una medicina que contenga corticoides, teniendo como efecto la desinflamación de la zona(si es que hay) y del mismo quiste, hasta el punto que puede desaparecer, no obstante solo se aplica si dicho quiste es de baja o poca intensidad, de manera que el cuerpo pueda curarse por su cuenta. Por último está el curetaje con sanación, aplicado especialmente a personas en crecimiento pues únicamente trata de una limpieza de la zona del quiste para que posteriormente el mismo cuerpo repare todos los daños conforme va creciendo, ya que tiene una mayor facilidad para producir tejido óseo,  ademas de que es poco recomendado para las personas de mayor edad por los mismos motivos(ya no produce este tejido tan fácilmente).
+### Diagnóstico y tratamientos más usados
+El diagnóstico más certero es un análisis de sangre en el que pueden ver la concentración de glucosa en el cuerpo y si esta dentro de los limites naturales, otras formas de diagnosticarlo según la revista triple-s(4) es a través de algunos síntomas entre los cuales destacan el aumento de las ganas de orinar, adormecimiento o perdida de sensibilidad en manos y pies, sed frecuente, perdida o disminución de visión por engrosamiento de venas, entre otras.
+Actualmente no existe cura para la diabetes, no obstante, hay tratamientos para reducir su avance estos tratamientos en general son 3: dieta, ejercicios y medicamentos. La dieta consiste en evitar todo lo que tenga exceso de glucosa, especialmente el azúcar y las grasas, todo definido por un nutricionista; el ejercicio tiene que ser uno que motive la circulación de la sangre puesto que la diabetes debilita y daña las arterias y venas secundarias o de menor tamaño, por lo que una buena circulación sanguínea es necesaria; por último, para evitar problemas con los diversos órganos afectados o que pueden ser afectados, se utilizan medicamentos que evitan el aumento del mismo.
+
 
 
 ### Proyectos novedosos relacionados al proyecto
@@ -91,7 +93,7 @@ Los quistes óseos aneurismáticos (ABC) y simples (SBC) son distinguibles por  
 - [X] Ser más accesible en costo y uso
 
 ### Propuesta de solución
-Optimizar la detección de quistes óseos simples a través de una máquina de ecografía, dicha máquina estará más enfocada en la detección del mismo, en un monitoreo constante y al ser más portátil prodrá llegar de manera más directa a nuestro público objetivo. 
+El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte de la cámara, de modo que medirá la profundidad y las venas afectadas por la diabetes dando un posible diagnóstico médico.  
 ### Integrantes del proyecto
 
 - Alexander Martinez (Colaborador - Encargado de investigación) - alexander.martinez@upch.pe
@@ -117,32 +119,9 @@ Optimizar la detección de quistes óseos simples a través de una máquina de e
 - Julissa Venancio
 
 ### Bibliografía
-[1] Arévalo, S. E. P. (2002). Tratamiento del quiste sinovial con infiltración de metilprednisolona. Redalyc.org.  https://www.redalyc.org/articulo.oa?id=48708307
-
-[2] Hernandez, J., Martín, J. C. A., Torre, T. E., De Rozas, M. G., & Dutor, R. C. (2003). Tratamiento del quiste óseo simple en la población infantil. Revista Española de Cirugía Ortopédica y Traumatología, 47(1), 48-54. https://doi.org/10.1016/s1888-4415(03)76069-x
-
-[3] Krauthamer, J. C. (s. f.). Tratamiento del quiste óseo simple con curetaje y relleno asistidos por endoscopía ósea - Revista de artroscopía. https://www.revistaartroscopia.com.ar/ediciones-anteriores/32-volumen-05-numero-1/volumen-9-numero-2/496-tratamiento-del-quiste-oseo-simple-con-curetaje-y-relleno-asistidos-por-endoscopia-osea#:~:text=El%20tratamiento%20cl%C3%A1sico%20es%20el,la%20posibilidad%20de%20procedimientos%20posteriores.
-
-[4] Cruz Sánchez, R. E., Calderón Ubaqui, V., Trevejo Bocanegra, A. P., & Mercado Portal, N. E. (2018). Control imagenológico de un quiste óseo simple: reporte de un caso. Revista Estomatológica Herediana, 28(3), 195. https://doi.org/10.20453/reh.v28i3.3397
-
-[5] Nesrin Saruhan, Kosar Yasin Caglar, & Günay Gojayeva. (2019). The simple bone cyst. 1(1), 023–026. https://doi.org/10.30574/wjarr.2019.1.1.0008 ‌
-
-[6] Lima, L.-B., Antonio, S., Barbosa, F., Servato, S., Rosa, R.-R., Paulo, … Sérgio Vitorino Cardoso. (2020). Simple bone cyst: description of 60 cases seen at a Brazilian School of Dentistry and review of international literature. Medicina Oral Patologia Oral Y Cirugia Bucal, e616–e625. https://doi.org/10.4317/medoral.23638
-
-[7] Toepfer, A., Strässle, M., Lenze, U., Lenze, F., & Harrasser, N. (2023). Allogenic Cancellous Bone versus Injectable Bone Substitute for Endoscopic Treatment of Simple Bone Cyst and Intraosseous Lipoma of the Calcaneus and Is Intraosseous Lipoma a Developmental Stage of a Simple Bone Cyst? Journal of Clinical Medicine, 12(13), 4272–4272. https://doi.org/10.3390/jcm12134272 ‌ ‌
-
-[8] 1.	Ortiz Romaní KJ, Morales Quiroz KC, Velásquez Rosas JG, Ortiz Montalvo YJ. Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú. Gerokomos [Internet]. 2021 [citado el 18 de septiembre de 2023];32(3):159–63. Disponible en: https://scielo.isciii.es/scielo.php?pid=S1134-928X2021000400005&script=sci_arttext&tlng=pt
-
-[9] Hung, Y. P., Fisch, A. S., Diaz-Perez, J. A., Iafrate, A. J., Lennerz, J. K., Nardi, V., Bredella, M. A., Raskin, K. A., Lozano-Calderon, S., Rosenberg, A. E., & Nielsen, G. P. (2021). Identification ofEWSR1–NFATC2Fusion in simple bone cysts. Histopathology, 78(6), 849-856. https://doi.org/10.1111/his.14314
-
-[10] Pižem, J., Šekoranja, D., Matjašič, A., Zupan, A., Boštjančič, E., Novak, K., Salapura, V., Mavčič, B., Gazic, B., & Dimnik, K. (2021). The role of molecular diagnostics in aneurysmal and simple bone cysts – A prospective analysis of 19 lesions. Virchows Archiv, 479(4), 795-802. https://doi.org/10.1007/s00428-021-03130-5
-[11] Lesiones pseudotumorales del esqueleto. (s. f.). Medwave. https://www.medwave.cl/puestadia/cursos/3267.html
-
-[12] Masquijo, J. J., Baroni, E., Gómez, A., Miscione, H., & Garrahan, J. P. (s/f). Tratamiento del quiste óseo simple de los huesos largos con enclavado endomedular. Org.ar. Recuperado el 1 de septiembre de 2023, de https://www.aaot.org.ar/revista/2008/n1_vol73/art06.pdf
-
-[13] Suárez-Suárez, M. A., Maestro Fernández, A., Mazón, A. M., Guerra García, C., Cortina, G. A., & García, J. M. (1998). Quiste óseo simple: estudio comparativo de diferentes métodos de tratamiento. Cirugia-osteoarticular.org. http://www.cirugia-osteoarticular.org/adaptingsystem/intercambio/revistas/articulos/56_articulo71.pdf
-
-[14] Alonso Hernández, J., Abril Martín, J. C., Epeldegui Torre, T., Gil de Rozas, M., & Carrillo Dutor, R. (2003). Tratamiento del quiste óseo simple en la población infantil. Revista espanola de cirugia ortopedica y traumatologia, 47(1), 48–54. https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-tratamiento-del-quiste-oseo-simple-13044129
-
-[15] Ashraf, A. (2023, March 29). Unicameral bone cyst. Radiopaedia; Radiopaedia.org. https://radiopaedia.org/articles/unicameral-bone-cyst-1?lang=us
-[16] Cañas, R. R., Bueno Sánchez, A., & Serrano, E. (s/f). Somacot.org. Recuperado el 1 de septiembre de 2023, de https://somacot.org/wp-content/uploads/2023/01/LA-AGRESIVIDAD-DEL-QUISTE-OSEO-SIMPLE.pdf
+1-	Yovera-Aldana, M., Velásquez-Rimachi, V., Huerta-Rosario, A., More-Yupanqui, M. D., Osores-Flores, M., Espinoza, R., Gil-Olivares, F., Quispe-Nolazco, C., Quea-Vélez, F., Morán-Mariños, C., Pinedo-Torres, I., Alva-Diaz, C., & Pacheco-Barrios, K. (2021). Prevalence and incidence of Diabetic peripheral Neuropathy in Latin America and the Caribbean: a systematic review and meta-analysis. PLOS ONE, 16(5), e0251642. https://doi.org/10.1371/journal.pone.0251642
+2-	 Invitado, A. (2019). Día Mundial de la Diabetes: tres hallazgos que debes conocer sobre América Latina. Gente Saludable. https://blogs.iadb.org/salud/es/diabetes-2/
+3-	Villena, J. (2015). Diabetes mellitus in Peru. Annals of global health, 81(6), 765-775.
+https://doi.org/10.1016/j.aogh.2015.12.018
+4-	triple-s. Bluecross blueshield of Puerto Rico (2017). La diabetes y su control.
+https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Control-SPA.pdf
