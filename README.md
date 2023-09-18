@@ -50,11 +50,16 @@ Figura 1. Características generales de los casos (adultos mayores con diabetes 
 Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.
 
 ### Rango de edad más afectado
-En el año 2022, la revista médica de la Universidad de Antioquia hizo un estudio sobre las complicaciones de la diabetes (retinopatía diabética y edema macular) que causan discapacidad visual en colombianos, de 1203 diabéticos tamizados, el 7,7% tenía diabetes tipo 1 y el 89,2% tenía diabetes tipo 2, además se encontró la alarmante relación de que 1 de 3 personas con diabetes tipo 2 sufre de retinopatía diabética, la mediana del tiempo fue de 14 años, con un rango intercuartílico (Medida de variabilidad) entre 7 y 19,5 años. Por otro lado se público en la revista UNIMAR un estudio que recolectó 473 datos de historias clínicas, para 212 pacientes. En ese estudio todos los 
-pacientes con diabetes tipo 2 presentaron RD, el rango de edad más alto fue del 37% entre pacientes de 60 a 67 años. En el 2019 la Revista Chilena de Salud Pública publica un estudio titulado "Retinopatía diabética y edema macular diabético: prevalencia en una población de atención primaria de Antofagasta" donde indica que el rango se edad predominante fue de 40 a 64 años con un porcentaje del 60,27%. En el año 2003 la Universidas Nacional de San Antonio Abad 
- evaluó a 160 pacientes con diabetes 2 en la ciudad de Cusco que pertenecian al Programa de Ciabetes Mellitus EsSALUD y se registró que para un rango de edad entre 40 y 84 años el 35,62 % (57 pacientes) padecía de ritonopatia diabética. Sintetizando los estudios decimos que la retinopatía diabética afecta en su mayoría a diabéticos de tipo 2 y puede acontecer en cualquier rango de edad, pero por lo general su prevalenacia aumenta con la edad.
+En el año 2022, la revista médica de la Universidad de Antioquia hizo un estudio sobre las complicaciones de la diabetes (retinopatía diabética y edema macular) que causan discapacidad visual en colombianos, de 1203 diabéticos tamizados, el 7,7% tenía diabetes tipo 1 y el 89,2% tenía diabetes tipo 2, además se encontró la alarmante relación de que 1 de 3 personas con diabetes tipo 2 sufre de retinopatía diabética, la mediana del tiempo fue de 14 años, con un rango intercuartílico (Medida de variabilidad) entre 7 y 19,5 años [5]. Por otro lado se público en la revista UNIMAR un estudio que recolectó 473 datos de historias clínicas, para 212 pacientes. En ese estudio todos los 
+pacientes con diabetes tipo 2 presentaron RD, el rango de edad más alto fue del 37% entre pacientes de 60 a 67 años [6]. En el 2019 la Revista Chilena de Salud Pública publica un estudio titulado "Retinopatía diabética y edema macular diabético: prevalencia en una población de atención primaria de Antofagasta" donde indica que el rango se edad predominante fue de 40 a 64 años con un porcentaje del 60,27% [7]. En el año 2003 la Universidas Nacional de San Antonio Abad 
+ evaluó a 160 pacientes con diabetes 2 en la ciudad de Cusco que pertenecian al Programa de Ciabetes Mellitus EsSALUD y se registró que para un rango de edad entre 40 y 84 años el 35,62 % (57 pacientes) padecía de ritonopatia diabética [8]. Sintetizando los estudios decimos que la retinopatía diabética afecta en su mayoría a diabéticos de tipo 2 y puede acontecer en cualquier rango de edad, pero por lo general su prevalenacia aumenta con la edad.
 #### Tabla de resultados del primer estudio citado.
+Nota. Esta tabla ha sido adaptada de "Retinopatía diabética y edema macular diabético en población de Antioquia. Estudio transversal", por Bravo et al. 2022. Revista Médica Universidad de Antioquia, Vol 35 p.102
 
+#### Tabla de resultados del tercer estudio citado.
+Nota. Esta tabla ha sido adaptada de "RETINOPATÍA DIABÉTICA Y EDEMA MACULAR DIABÉTICO: PREVALENCIA EN UNA POBLACIÓN DE ATENCIÓN PRIMARIA DE ANTOFAGASTA", por Soto, Cruz, 2019. Revista Chilena Salud Publica, Vol (22)p. 158
+#### Tabla de resultados del cuarto estudio citado.
+Nota. Esta tabla ha sido adaptada de "FACTORES DE RIESGO DE RETINOPATÍA DIABÉTICA EN DIABÉTICOS TIPO 2 EN LA ALTURA", por Espinoza et al. 2003. Revista Semestral de la Facultad de Medicina Humana p.43
 
 
 ### Diagnóstico y tratamientos más usados
@@ -125,6 +130,9 @@ https://doi.org/10.1016/j.aogh.2015.12.018
 4-	triple-s. Bluecross blueshield of Puerto Rico (2017). La diabetes y su control.
 https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Control-SPA.pdf
 5- https://revistas.udea.edu.co/index.php/iatreia/article/view/344736
+
 6- https://www.semanticscholar.org/paper/CARACTERIZACIÓN-DE-LOS-FACTORES-DE-RIESGO-DE-LA-EN-Meneses-Muñoz/2965cd3446fa59580277735e4fddf138bacf61b0
+
 7- https://pdfs.semanticscholar.org/a638/9e311efcce207c99dd3eaa796beaa2fa8620.pdf?_gl=1*1a2un1e*_ga*MTM4Njk0MzQ4LjE2OTUwNjc0MDQ.*_ga_H7P4ZT52H5*MTY5NTA2NzQwMy4xLjEuMTY5NTA2OTMxNC4xMy4wLjA.
+
 8- https://www.semanticscholar.org/paper/Factores-de-riesgo-de-retinopatía-diabética-en-tipo-Espinoza-Sota/a98fc51581b49a5ccdd06d9fc6e059e348c82558
