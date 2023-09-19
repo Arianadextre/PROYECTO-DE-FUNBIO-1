@@ -42,6 +42,7 @@ De acuerdo a la Sociedad Española de oftalmología, las personas que padecen di
 
 *Nota. Adaptado de Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático (imagen)*
 
+
 No obstante, debemos cuestionarnos lo siguiente, ¿qué tan frecuente son los dos tipos de diabetes en el Perú?
 
 El hecho de que el Perú sea uno de los países con más carga de tuberculosis (TB) en las Américas, lo pone en una situación de alerta ante un posible aumento de casos de comorbilidad TB con DM1 (diabetes mellitus tipo 1). Una revisión sistemática de 200 estudios encontró una prevalencia combinada de DM en pacientes con TB del 15,3%, donde el estimado para América Latina fue del 7,7%.  [10]
