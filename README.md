@@ -35,15 +35,16 @@ La edad promedio de los participantes al comienzo del estudio se situó en 53.8 
 
 ### Prevalencia del proyecto
 De acuerdo a la Sociedad Española de oftalmología, las personas que padecen diabetes tipo 2 (DM2) adquieren retinopatía diabética (RD) con mayor frecuencia que las personas que padecen diabetes tipo 1 (DM1). Dichas cifras se comprueban en el siguiente gráfico: [12]
+
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/440d11f0-fe98-40da-ba9b-bd12b704597d)
 
-Fig. 1: Distribución de los pacientes según el tipo de DM.
+*Fig. 1: Distribución de los pacientes según el tipo de DM.*
 
-Nota. Adaptado de Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático (imagen)
+*Nota. Adaptado de Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático (imagen)*
 
 No obstante, debemos cuestionarnos lo siguiente, ¿qué tan frecuente son los dos tipos de diabetes en el Perú?
 
-El hecho de que el Perú sea uno de los países con más carga de tuberculosis (TB) en las Américas, lo pone en una situación de alerta ante un posible aumento de casos de comorbilidad TB con DM1 (diabetes mellitus tipo 1). Una revisión sistemática de 200 estudios encontró una prevalencia combinada de DM en pacientes con TB del 15,3%, donde el estimado para América Latina fue del 7,7%3.  [10]
+El hecho de que el Perú sea uno de los países con más carga de tuberculosis (TB) en las Américas, lo pone en una situación de alerta ante un posible aumento de casos de comorbilidad TB con DM1 (diabetes mellitus tipo 1). Una revisión sistemática de 200 estudios encontró una prevalencia combinada de DM en pacientes con TB del 15,3%, donde el estimado para América Latina fue del 7,7%.  [10]
 
 Entre los años 2016-2018, se encontró que el 9,7% de los 90 468 pacientes con tuberculosis, de los cuales 81 807 eran adultos, sufrían de DM (6529/67 524). Las regiones que tenían mayor proporción de pacientes con TB y DM fueron Tumbes, Moquegua, Piura, Ucayali, San Martin y Cajamarca. Con relación a las instituciones, se encontró una frecuencia de TB con DM en EsSalud del 13,1% (1570/12 018), en la Sanidad de la Policía Nacional del Perú del 12,4% (10/81) y del 9,8% en el MINSA (4860/49 430) dentro de su población con TB. [10]
 
