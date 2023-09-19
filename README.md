@@ -34,8 +34,12 @@ El curso consta de cuatro unidades principales:
 La edad promedio de los participantes al comienzo del estudio se situó en 53.8 años, con un margen de desviación estándar de 9.2 años. En cuanto a la duración de la diabetes mellitus tipo 2, esta fue en promedio de 9 años, con una variación de 6 años. Después de un seguimiento de 12 años, se optó por excluir a 35 pacientes del análisis. Los resultados muestran que la incidencia de eventos a los 3, 6 y 12 años fue del 23%, 48% y 71%, respectivamente. En lo que respecta a la progresión de la enfermedad, se registraron tasas del 56%, 70% y 74% en esos mismos períodos de tiempo. Además, la incidencia y progresión de la retinopatía diabética proliferativa a los 12 años alcanzaron un 14.3% y un 32%, respectivamente. La concentración media de glucosa en sangre se estableció en 193 mg/dl, mientras que la hemoglobina glucosilada promedió un 11%. En términos de mortalidad, el 45% de los participantes falleció, y la mitad de estos decesos fueron atribuibles a un infarto agudo de miocardio.
 
 ### Prevalencia del proyecto
-Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, con lo cual se determinó que 150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), 150 pacientes de 60 años o más no sufrían DM2. Cabe recalcar que se tuvieron que excluir 50 pacientes que sufrían pancreatitis y no tener las historias clínicas completas. Es así, que la muestra total seleccionada fue de 250 adultos mayores.
+De acuerdo a mútiples investigaciones, en las cuales resaltan ........., podemos comprobar que la retinoplatia es una enfermedad generada por la diabetes, específicamente en más proporción ebido a la diabetes tipo 2 con respecto a la diabetes tipo 1.
+No obstante, debemos cuestionarnos lo siguiente, ¿qué tan frecuente son los dos tipos de diabetes en el Perú?
 
+La diabetes tipo 1
+
+Por otro lado, con  respecto a la diabetes tipo 2Se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, con lo cual se determinó que 150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), 150 pacientes de 60 años o más no sufrían DM2. Cabe recalcar que se tuvieron que excluir 50 pacientes que sufrían pancreatitis y no tener las historias clínicas completas. Es así, que la muestra total seleccionada fue de 250 adultos mayores.
 
 
 
