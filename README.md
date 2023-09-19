@@ -124,7 +124,7 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
 - [X] Reconocer retinoplatía diabética generado en los ojos
 - [X] Detectar si se trata de DM2 o DM1
 - [X] Brindar un monitoreo frecuente al paciente
-- [X] Optimizar la detección temprana de los quistes óseos
+- [X] Optimizar la detección temprana de 
 
 ### No Funcionales ¿Qué propiedades debe poseer nuestro diseño?
 - [X] Costo asequible
@@ -132,7 +132,6 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
 - [X] Brindar un diagnóstico veloz
 - [X] Independencia total a una conexión a internet
 - [X] Fácil de transportar
-- [X] Ser más accesible en costo y uso
 
 ### Propuesta de solución
 El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte de la cámara, de modo que medirá la profundidad y las venas afectadas por la diabetes dando un posible diagnóstico médico.  
