@@ -48,8 +48,8 @@ Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto 
 ### Rango de edad más afectado
 El objetivo de este item es analizar estudios precedentes para encontrar información fiable sobre los rangos de edad más afectados por la retinopatía diabética. El análisis de los estudios que se encuentran a continuación estan ordenados por antiguedad, siendo los primeros, la sinvestigaciones más recientes.  
 Los estudios decimos que la retinopatía diabética afecta en su mayoría a diabéticos de tipo 2 y puede acontecer en cualquier rango de edad, pero por lo general su prevalenacia aumenta con la edad.
-#### Primer estudio.
-En el año 2022, la revista médica de la Universidad de Antioquia hizo un estudio sobre las complicaciones de la diabetes (retinopatía diabética y edema macular) que causan discapacidad visual en colombianos, de 1203 diabéticos tamizados, el 7,7% tenía diabetes tipo 1 y el 89,2% tenía diabetes tipo 2, además se encontró la alarmante relación de que 1 de 3 personas con diabetes tipo 2 sufre de retinopatía diabética, la mediana del tiempo fue de 14 años, con un rango intercuartílico (Medida de variabilidad) entre 7 y 19,5 años [5]. 
+#### Primer estudio (Colombia, 2022)
+En el año 2022, la revista médica de la Universidad de Antioquia hizo un estudio sobre las complicaciones de la diabetes (retinopatía diabética y edema macular) que causan discapacidad visual en colombianos, de 1203 diabéticos tamizados, el 7,7% tenía diabetes tipo 1 y el 89,2% tenía diabetes tipo 2, además se encontró la alarmante relación de que 1 de 3 personas con diabetes tipo 2 sufre de retinopatía diabética, la mediana del tiempo fue de 63 años, el tiempo con un rango intercuartílico (Medida de variabilidad) entre 7 y 19,5 años [5]. 
 Tabla 1
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/9bca4a63-785b-49d8-8b21-cb35aa58f2d7)
 Nota. Esta tabla ha sido adaptada de "Retinopatía diabética y edema macular diabético en población de Antioquia. Estudio transversal", por Bravo et al. 2022. Revista Médica Universidad de Antioquia, Vol 35 p.102Z
