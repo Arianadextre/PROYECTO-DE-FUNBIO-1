@@ -34,13 +34,13 @@ El curso consta de cuatro unidades principales:
 La edad promedio de los participantes al comienzo del estudio se situó en 53.8 años, con un margen de desviación estándar de 9.2 años. En cuanto a la duración de la diabetes mellitus tipo 2, esta fue en promedio de 9 años, con una variación de 6 años. Después de un seguimiento de 12 años, se optó por excluir a 35 pacientes del análisis. Los resultados muestran que la incidencia de eventos a los 3, 6 y 12 años fue del 23%, 48% y 71%, respectivamente. En lo que respecta a la progresión de la enfermedad, se registraron tasas del 56%, 70% y 74% en esos mismos períodos de tiempo. Además, la incidencia y progresión de la retinopatía diabética proliferativa a los 12 años alcanzaron un 14.3% y un 32%, respectivamente. La concentración media de glucosa en sangre se estableció en 193 mg/dl, mientras que la hemoglobina glucosilada promedió un 11%. En términos de mortalidad, el 45% de los participantes falleció, y la mitad de estos decesos fueron atribuibles a un infarto agudo de miocardio.
 
 ### Prevalencia del proyecto
-De acuerdo a la Sociedad Española de oftalmología, las personas que padecen diabetes tipo 2 adquieren retinopatía diabética con mayor frecuencia que las personas que padecen diabetes tipo 1. Dichas cifras se comprueban en el siguiente gráfico: 
-
+De acuerdo a la Sociedad Española de oftalmología, las personas que padecen diabetes tipo 2 adquieren retinopatía diabética con mayor frecuencia que las personas que padecen diabetes tipo 1. Dichas cifras se comprueban en el siguiente gráfico: [12]
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/440d11f0-fe98-40da-ba9b-bd12b704597d)
 
 Fig. 1: Distribución de los pacientes según el tipo de DM.
 
 Nota. Adaptado de Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático (imagen)
+
 
 
 
