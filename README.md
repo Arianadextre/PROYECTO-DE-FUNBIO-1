@@ -37,7 +37,9 @@ La edad promedio de los participantes al comienzo del estudio se situó en 53.8 
 De acuerdo a la Sociedad Española de oftalmología, las personas que padecen diabetes tipo 2 adquieren retinopatía diabética con mayor frecuencia que las personas que padecen diabetes tipo 1. Dichas cifras se comprueban en el siguiente gráfico: 
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/440d11f0-fe98-40da-ba9b-bd12b704597d)
+
 Fig. 1: Distribución de los pacientes según el tipo de DM.
+
 Nota. Adaptado de Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático (imagen)
 
 
