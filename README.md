@@ -143,3 +143,7 @@ https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Contr
 7- https://pdfs.semanticscholar.org/a638/9e311efcce207c99dd3eaa796beaa2fa8620.pdf?_gl=1*1a2un1e*_ga*MTM4Njk0MzQ4LjE2OTUwNjc0MDQ.*_ga_H7P4ZT52H5*MTY5NTA2NzQwMy4xLjEuMTY5NTA2OTMxNC4xMy4wLjA.
 8- https://www.semanticscholar.org/paper/Factores-de-riesgo-de-retinopatía-diabética-en-tipo-Espinoza-Sota/a98fc51581b49a5ccdd06d9fc6e059e348c82558
 9- Rodríguez-Villalobos E, Cervantes-Aguayo F, Vargas-Salado E, et al. Retinopatía diabética. Incidencia y progresión a 12 años. Cir Cir. 2005;73(2):79-84.
+
+10- 2.	Ugarte-Gil C, Curisinche M, Herrrera-Flores E, Hernandez H, Rios J. Situación de la comorbilidad tuberculosis y diabetes en personas adultas en el Perú, 2016-2018. Rev Peru Med Exp Salud Publica [Internet]. 2021 [citado el 19 de septiembre de 2023];38(2):254–60. Disponible en: https://www.scielosp.org/article/rpmesp/2021.v38n2/254-260/
+
+
