@@ -122,9 +122,9 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
  
 ### Funcionales ¿Qué debe hacer mi diseño?
 - [X] Reconocer retinopatía diabética generado en los ojos
-- [X] Detectar si se trata de DM2 o DM1
-- [X] Brindar un monitoreo frecuente al 
-- [X] Optimizar la detección temprana de la retinopatía
+- [X] Detectar si se trata de DM2 o DM1 
+- [X] Informar en qué fase se encuentra la enfermedad
+- [ ] Brindar un posible diagnóstico
 
 ### No Funcionales ¿Qué propiedades debe poseer nuestro diseño?
 - [X] Costo asequible
