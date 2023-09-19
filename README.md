@@ -52,17 +52,14 @@ En el año 2022, la revista médica de la Universidad de Antioquia hizo un estud
 Tabla 1
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/9bca4a63-785b-49d8-8b21-cb35aa58f2d7)
 Nota. Esta tabla ha sido adaptada de "Retinopatía diabética y edema macular diabético en población de Antioquia. Estudio transversal", por Bravo et al. 2022. Revista Médica Universidad de Antioquia, Vol 35 p.102Z
-#### Segundo estudio 
-Se público en la revista UNIMAR un estudio que recolectó 473 datos de historias clínicas, para 212 pacientes. En ese estudio todos los 
-pacientes con diabetes tipo 2 presentaron RD, el rango de edad más alto fue del 37% entre pacientes de 60 a 67 años [6].
-#### Tercer estudio. (Chile, 2019)
-En el 2019 la Revista Chilena de Salud Pública publica un estudio titulado "Retinopatía diabética y edema macular diabético: prevalencia en una población de atención primaria de Antofagasta" donde indica que el rango se edad predominante fue de 40 a 64 años con un porcentaje del 60,27% [7]
+#### Segundo estudio. (Chile, 2019)
+En el 2019 la Revista Chilena de Salud Pública publica un estudio titulado "Retinopatía diabética y edema macular diabético: prevalencia en una población de atención primaria de Antofagasta" donde indica que el rango se edad predominante fue de 40 a 64 años con un porcentaje del 60,27% [6]
 Tabla 2
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/9c237721-8232-4b62-944e-c70454c41518)
 Nota. Esta tabla ha sido adaptada de "RETINOPATÍA DIABÉTICA Y EDEMA MACULAR DIABÉTICO: PREVALENCIA EN UNA POBLACIÓN DE ATENCIÓN PRIMARIA DE ANTOFAGASTA", por Soto, Cruz, 2019. Revista Chilena Salud Publica, Vol (22)p. 158
-#### Cuarto estudio citado (Perú, 2003)
+#### Tercer estudio citado (Perú, 2003)
 En el año 2003 la Universidas Nacional de San Antonio Abad 
- evaluó a 160 pacientes con diabetes 2 en la ciudad de Cusco que pertenecian al Programa de Ciabetes Mellitus EsSALUD y se registró que para un rango de edad entre 40 y 84 años el 35,62 % (57 pacientes) padecía de ritonopatia diabética [8]
+ evaluó a 160 pacientes con diabetes 2 en la ciudad de Cusco que pertenecian al Programa de Ciabetes Mellitus EsSALUD y se registró que para un rango de edad entre 40 y 84 años el 35,62 % (57 pacientes) padecía de ritonopatia diabética [7]
 Tabla 3
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/b6881ec2-1208-4e2f-8de9-319c518584f9)
 Nota. Esta tabla ha sido adaptada de "FACTORES DE RIESGO DE RETINOPATÍA DIABÉTICA EN DIABÉTICOS TIPO 2 EN LA ALTURA", por Espinoza et al. 2003. Revista Semestral de la Facultad de Medicina Humana p.43
@@ -128,13 +125,17 @@ El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte
 
 ### Bibliografía
 1-	Yovera-Aldana, M., Velásquez-Rimachi, V., Huerta-Rosario, A., More-Yupanqui, M. D., Osores-Flores, M., Espinoza, R., Gil-Olivares, F., Quispe-Nolazco, C., Quea-Vélez, F., Morán-Mariños, C., Pinedo-Torres, I., Alva-Diaz, C., & Pacheco-Barrios, K. (2021). Prevalence and incidence of Diabetic peripheral Neuropathy in Latin America and the Caribbean: a systematic review and meta-analysis. PLOS ONE, 16(5), e0251642. https://doi.org/10.1371/journal.pone.0251642
+
 2-	 Invitado, A. (2019). Día Mundial de la Diabetes: tres hallazgos que debes conocer sobre América Latina. Gente Saludable. https://blogs.iadb.org/salud/es/diabetes-2/
+
 3-	Villena, J. (2015). Diabetes mellitus in Peru. Annals of global health, 81(6), 765-775.
 https://doi.org/10.1016/j.aogh.2015.12.018
+
 4-	triple-s. Bluecross blueshield of Puerto Rico (2017). La diabetes y su control.
 https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Control-SPA.pdf
+
 5- https://revistas.udea.edu.co/index.php/iatreia/article/view/344736
-6- https://www.semanticscholar.org/paper/CARACTERIZACIÓN-DE-LOS-FACTORES-DE-RIESGO-DE-LA-EN-Meneses-Muñoz/2965cd3446fa59580277735e4fddf138bacf61b0
+
 7- https://pdfs.semanticscholar.org/a638/9e311efcce207c99dd3eaa796beaa2fa8620.pdf?_gl=1*1a2un1e*_ga*MTM4Njk0MzQ4LjE2OTUwNjc0MDQ.*_ga_H7P4ZT52H5*MTY5NTA2NzQwMy4xLjEuMTY5NTA2OTMxNC4xMy4wLjA.
 8- https://www.semanticscholar.org/paper/Factores-de-riesgo-de-retinopatía-diabética-en-tipo-Espinoza-Sota/a98fc51581b49a5ccdd06d9fc6e059e348c82558
 9- Rodríguez-Villalobos E, Cervantes-Aguayo F, Vargas-Salado E, et al. Retinopatía diabética. Incidencia y progresión a 12 años. Cir Cir. 2005;73(2):79-84.
