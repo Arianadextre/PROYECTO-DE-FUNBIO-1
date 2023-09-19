@@ -46,18 +46,24 @@ Figura 1. Características generales de los casos (adultos mayores con diabetes 
 Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.
 
 ### Rango de edad más afectado
-En el año 2022, la revista médica de la Universidad de Antioquia hizo un estudio sobre las complicaciones de la diabetes (retinopatía diabética y edema macular) que causan discapacidad visual en colombianos, de 1203 diabéticos tamizados, el 7,7% tenía diabetes tipo 1 y el 89,2% tenía diabetes tipo 2, además se encontró la alarmante relación de que 1 de 3 personas con diabetes tipo 2 sufre de retinopatía diabética, la mediana del tiempo fue de 14 años, con un rango intercuartílico (Medida de variabilidad) entre 7 y 19,5 años [5]. Por otro lado se público en la revista UNIMAR un estudio que recolectó 473 datos de historias clínicas, para 212 pacientes. En ese estudio todos los 
-pacientes con diabetes tipo 2 presentaron RD, el rango de edad más alto fue del 37% entre pacientes de 60 a 67 años [6]. En el 2019 la Revista Chilena de Salud Pública publica un estudio titulado "Retinopatía diabética y edema macular diabético: prevalencia en una población de atención primaria de Antofagasta" donde indica que el rango se edad predominante fue de 40 a 64 años con un porcentaje del 60,27% [7]. En el año 2003 la Universidas Nacional de San Antonio Abad 
- evaluó a 160 pacientes con diabetes 2 en la ciudad de Cusco que pertenecian al Programa de Ciabetes Mellitus EsSALUD y se registró que para un rango de edad entre 40 y 84 años el 35,62 % (57 pacientes) padecía de ritonopatia diabética [8]. Sintetizando los estudios decimos que la retinopatía diabética afecta en su mayoría a diabéticos de tipo 2 y puede acontecer en cualquier rango de edad, pero por lo general su prevalenacia aumenta con la edad.
-#### Tabla de resultados del primer estudio citado.
+El objetivo de este item es analizar estudios precedentes para encontrar información fiable sobre los rangos de edad más afectados por la retinopatía diabética. El análisis de los estudios que se encuentran a continuación estan ordenados por antiguedad, siendo los primeros, la sinvestigaciones más recientes.  
+Los estudios decimos que la retinopatía diabética afecta en su mayoría a diabéticos de tipo 2 y puede acontecer en cualquier rango de edad, pero por lo general su prevalenacia aumenta con la edad.
+#### Primer estudio.
+En el año 2022, la revista médica de la Universidad de Antioquia hizo un estudio sobre las complicaciones de la diabetes (retinopatía diabética y edema macular) que causan discapacidad visual en colombianos, de 1203 diabéticos tamizados, el 7,7% tenía diabetes tipo 1 y el 89,2% tenía diabetes tipo 2, además se encontró la alarmante relación de que 1 de 3 personas con diabetes tipo 2 sufre de retinopatía diabética, la mediana del tiempo fue de 14 años, con un rango intercuartílico (Medida de variabilidad) entre 7 y 19,5 años [5]. 
 Tabla 1
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/9bca4a63-785b-49d8-8b21-cb35aa58f2d7)
 Nota. Esta tabla ha sido adaptada de "Retinopatía diabética y edema macular diabético en población de Antioquia. Estudio transversal", por Bravo et al. 2022. Revista Médica Universidad de Antioquia, Vol 35 p.102Z
-#### Tabla de resultados del tercer estudio citado.
+#### Segundo estudio
+Se público en la revista UNIMAR un estudio que recolectó 473 datos de historias clínicas, para 212 pacientes. En ese estudio todos los 
+pacientes con diabetes tipo 2 presentaron RD, el rango de edad más alto fue del 37% entre pacientes de 60 a 67 años [6].
+#### Tercer estudio.
+En el 2019 la Revista Chilena de Salud Pública publica un estudio titulado "Retinopatía diabética y edema macular diabético: prevalencia en una población de atención primaria de Antofagasta" donde indica que el rango se edad predominante fue de 40 a 64 años con un porcentaje del 60,27% [7]
 Tabla 2
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/9c237721-8232-4b62-944e-c70454c41518)
 Nota. Esta tabla ha sido adaptada de "RETINOPATÍA DIABÉTICA Y EDEMA MACULAR DIABÉTICO: PREVALENCIA EN UNA POBLACIÓN DE ATENCIÓN PRIMARIA DE ANTOFAGASTA", por Soto, Cruz, 2019. Revista Chilena Salud Publica, Vol (22)p. 158
-#### Tabla de resultados del cuarto estudio citado.
+#### Cuarto estudio citado.
+En el año 2003 la Universidas Nacional de San Antonio Abad 
+ evaluó a 160 pacientes con diabetes 2 en la ciudad de Cusco que pertenecian al Programa de Ciabetes Mellitus EsSALUD y se registró que para un rango de edad entre 40 y 84 años el 35,62 % (57 pacientes) padecía de ritonopatia diabética [8]
 Tabla 3
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/b6881ec2-1208-4e2f-8de9-319c518584f9)
 Nota. Esta tabla ha sido adaptada de "FACTORES DE RIESGO DE RETINOPATÍA DIABÉTICA EN DIABÉTICOS TIPO 2 EN LA ALTURA", por Espinoza et al. 2003. Revista Semestral de la Facultad de Medicina Humana p.43
@@ -72,15 +78,10 @@ Actualmente no existe cura para la diabetes, no obstante, hay tratamientos para 
 ### Proyectos novedosos relacionados al proyecto
 La retinopatía diabética (RD) es una complicación habitual de la diabetes y representa la principal razón de pérdida severa de visión y ceguera en individuos en su etapa laboral, lo que trae consigo impactos socioeconómicos y en la calidad de vida. Es posible detectar biomarcadores vinculados a la RD en diversas áreas como sangre, retina, vítreo, humor acuoso, y últimamente en lágrimas. Dado que la retina ocupa una mínima fracción de la masa corporal total, un biomarcador que circule relacionado a la RD debe ser altamente específico. Los biomarcadores situados directamente en el área afectada suelen ser más precisos para señalar problemas retinianos. No obstante, extraer muestras del liquido intraocular o humor acuoso, vítreo o retina es una técnica invasiva que puede conllevar serias complicaciones. Por otro lado, el estudio de las lágrimas como medio para identificar biomarcadores representa una técnica innovadora y menos intrusiva, que se perfila como una línea de investigación con potencial. Para recolectar lágrimas, se emplean pequeños tubos capilares o tiras de papel de Schirmer. Diversas investigaciones han establecido una relación entre la presencia de ciertos biomarcadores en las lágrimas, especialmente TNF-α y VEGF, y el nivel de RD.
 ### Estado del arte
-#### Patentes
-##### Patente 1 
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/2b042610-496f-4b32-834e-8ea4ea405eb8)
-
-##### Patente 2
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/80346a26-6dd3-44a7-b5a7-4ce01e04fee4)
-
 #### Productos comerciales
 ##### Producto comercial 1
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/89f67725-9e5a-4c0d-b410-bc86c2fcadf6)
+
 
 
 
