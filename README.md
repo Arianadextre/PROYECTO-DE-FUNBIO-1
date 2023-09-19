@@ -96,7 +96,7 @@ En el año 2003 la Universidas Nacional de San Antonio Abad
 Tabla 3
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/b6881ec2-1208-4e2f-8de9-319c518584f9)
 Nota. Esta tabla ha sido adaptada de "FACTORES DE RIESGO DE RETINOPATÍA DIABÉTICA EN DIABÉTICOS TIPO 2 EN LA ALTURA", por Espinoza et al. 2003. Revista Semestral de la Facultad de Medicina Humana p.43
-#### Conclusiónes
+#### Conclusiones
 En sintesís decimos que aunque la retinopatía diabética puede afectar a cualquier rango de edad, por lo general los adultos y adultos mayores (40 años a más) son los más afectados.
 
 ### Diagnóstico y tratamientos más usados
@@ -121,17 +121,17 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
 
  
 ### Funcionales ¿Qué debe hacer mi diseño?
-- [X] Reconocer retinoplatía diabética generado en los ojos
+- [X] Reconocer retinopatía diabética generado en los ojos
 - [X] Detectar si se trata de DM2 o DM1
-- [X] Brindar un monitoreo frecuente al paciente
-- [X] Optimizar la detección temprana de 
+- [X] Brindar un monitoreo frecuente al 
+- [X] Optimizar la detección temprana de la retinopatía
 
 ### No Funcionales ¿Qué propiedades debe poseer nuestro diseño?
 - [X] Costo asequible
 - [X] Práctico manejo
-- [X] Brindar un diagnóstico veloz
+- [X] Diagnóstico veloz
 - [X] Independencia total a una conexión a internet
-- [X] Fácil de transportar
+- [X] Transporte práctico
 
 ### Propuesta de solución
 El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte de la cámara, de modo que medirá la profundidad y las venas afectadas por la diabetes dando un posible diagnóstico médico.  
