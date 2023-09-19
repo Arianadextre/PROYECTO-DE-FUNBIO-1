@@ -65,7 +65,7 @@ De acuerdo al  Instituto Regional de Oftalmología, de un total de 3239 paciente
 
 *Figura 3. Características generales de los pacientes con diabetes mellitus tipo 2 atendidos en el Instituto Regional de Oftalmología, 2016-2018*
 
-*Nota. Adaptado de Frecuencia y severidad de retinopatía diabética en pacientes con diabetes mellitus tipo 2 en el Instituto Regional de Oftalmología. (imagen)
+*Nota. Adaptado de Frecuencia y severidad de retinopatía diabética en pacientes con diabetes mellitus tipo 2 en el Instituto Regional de Oftalmología. (imagen)*
 
 
 
