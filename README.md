@@ -67,6 +67,8 @@ De acuerdo al  Instituto Regional de Oftalmología, de un total de 3239 paciente
 
 *Nota. Adaptado de Frecuencia y severidad de retinopatía diabética en pacientes con diabetes mellitus tipo 2 en el Instituto Regional de Oftalmología. (imagen)*
 
+A su vez, del total de pacientes con DM se encontró que 838 (25,9%) presentaron RD, de estos 341 (40,7%) fueron varones y 497 (59,3%) fueron mujeres. En comparación con los pacientes sin RD, la proporción de pacientes con RD fue mayor en varones (28,2%) que en mujeres (24,5%) y en aquellos pacientes con mas de 10 años de enfermedad (49,0%) que en aquellos con 10 o menos años de enfermedad (19,6%). La mayoría de los pacientes con RD tuvieron una edad superior a los 40 años . El sexo, la edad y el tiempo de enfermedad resultaron estadísticamente asociados a la presencia de RD.
+
 
 
 ### Rango de edad más afectado
