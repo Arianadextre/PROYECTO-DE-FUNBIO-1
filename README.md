@@ -39,6 +39,7 @@ De acuerdo a la Sociedad Española de oftalmología, las personas que padecen di
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/440d11f0-fe98-40da-ba9b-bd12b704597d)
 
 Fig. 1: Distribución de los pacientes según el tipo de DM.
+
 Nota. Adaptado de Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático (imagen)
 
 
