@@ -42,7 +42,6 @@ De acuerdo a la Sociedad Española de oftalmología, las personas que padecen di
 
 *Nota. Adaptado de Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático (imagen)*
 
-
 No obstante, debemos cuestionarnos lo siguiente, ¿qué tan frecuente son los dos tipos de diabetes en el Perú?
 
 El hecho de que el Perú sea uno de los países con más carga de tuberculosis (TB) en las Américas, lo pone en una situación de alerta ante un posible aumento de casos de comorbilidad TB con DM1 (diabetes mellitus tipo 1). Una revisión sistemática de 200 estudios encontró una prevalencia combinada de DM en pacientes con TB del 15,3%, donde el estimado para América Latina fue del 7,7%.  [10]
@@ -55,9 +54,9 @@ En la tabla 1 se observaron los siguientes resultados: la media de edad de los a
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/2aa18104-2eb7-4467-9f1b-037ea3713e31)
 
-Figura 1. Características generales de los casos (adultos mayores con diabetes mellitus tipo 2) 
+*Figura 1. Características generales de los casos (adultos mayores con diabetes mellitus tipo 2)*
 
-Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.
+*Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.*
 
 Sabiendo ahora con total certeza que tipos de diabetes existen y que la DM2 ocasiona con mayor frecuencia la retinopatía diabética, profundarizaremos en dichas enfermedades en conjunto.
 
