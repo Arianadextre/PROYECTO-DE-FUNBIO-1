@@ -40,6 +40,7 @@ No obstante, debemos cuestionarnos lo siguiente, ¿qué tan frecuente son los do
 La diabetes tipo 1
 
 Por otro lado, con  respecto a la diabetes tipo 2, se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, con lo cual se determinó que 150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), 150 pacientes de 60 años o más no sufrían DM2. Cabe recalcar que se tuvieron que excluir 50 pacientes que sufrían pancreatitis y no tener las historias clínicas completas. Es así, que la muestra total seleccionada fue de 250 adultos mayores. [3]
+
 En la tabla 1 se observaron los siguientes resultados: la media de edad de los adultos mayores fue de 70,44 años; el mayor porcentaje lo obtuvo el sexo femenino (56%). Asimismo, el 49,33% de los pacientes había sido hospitalizado anteriormente. Además, se observó que la media de los triglicéridos en los adultos mayores fue de 213,71 mg/dl; respecto al colesterol, fue de 242,48 mg/dl, y la glucosa de 191,79 mg/dl. Por último, el 50% de los adultos mayores presentó un IMC de sobrepeso. [3]
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/2aa18104-2eb7-4467-9f1b-037ea3713e31)
