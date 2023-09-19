@@ -73,8 +73,12 @@ Actualmente no existe cura para la diabetes, no obstante, hay tratamientos para 
 La retinopatía diabética (RD) es una complicación habitual de la diabetes y representa la principal razón de pérdida severa de visión y ceguera en individuos en su etapa laboral, lo que trae consigo impactos socioeconómicos y en la calidad de vida. Es posible detectar biomarcadores vinculados a la RD en diversas áreas como sangre, retina, vítreo, humor acuoso, y últimamente en lágrimas. Dado que la retina ocupa una mínima fracción de la masa corporal total, un biomarcador que circule relacionado a la RD debe ser altamente específico. Los biomarcadores situados directamente en el área afectada suelen ser más precisos para señalar problemas retinianos. No obstante, extraer muestras del liquido intraocular o humor acuoso, vítreo o retina es una técnica invasiva que puede conllevar serias complicaciones. Por otro lado, el estudio de las lágrimas como medio para identificar biomarcadores representa una técnica innovadora y menos intrusiva, que se perfila como una línea de investigación con potencial. Para recolectar lágrimas, se emplean pequeños tubos capilares o tiras de papel de Schirmer. Diversas investigaciones han establecido una relación entre la presencia de ciertos biomarcadores en las lágrimas, especialmente TNF-α y VEGF, y el nivel de RD.
 ### Estado del arte
 #### Patentes
-##### Patente 1
+##### Patente 1 
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/2b042610-496f-4b32-834e-8ea4ea405eb8)
+
 ##### Patente 2
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/80346a26-6dd3-44a7-b5a7-4ce01e04fee4)
+
 #### Productos comerciales
 ##### Producto comercial 1
 
