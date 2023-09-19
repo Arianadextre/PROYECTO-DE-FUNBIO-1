@@ -94,13 +94,13 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
 
  
 ### Funcionales ¿Qué debe hacer mi diseño?
-- [X] Reconocer quistes óseos simple con mayor eficacia
+- [X] Reconocer retinoplatía diabética generado en los ojos
 - [X] Alertar si se presentan complicaciones en el paciente
 - [X] Brindar un monitoreo frecuente al paciente
 - [X] Optimizar la detección temprana de los quistes óseos
 
 ### No Funcionales ¿Qué propiedades debe poseer nuestro diseño?
-- [X] Poseer un costo asequible
+- [X] Un costo asequible
 - [X] Ser de un fácil manejo
 - [X] Brindar un diagnóstico veloz
 - [X] Ser independiente a una conexión a internet
