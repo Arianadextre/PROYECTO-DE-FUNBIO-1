@@ -46,7 +46,7 @@ Figura 1. Características generales de los casos (adultos mayores con diabetes 
 Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.
 
 ### Rango de edad más afectado
-El objetivo de este item es analizar estudios precedentes para encontrar información fiable sobre los rangos de edad más afectados por la retinopatía diabética. El análisis de los estudios que se encuentran a continuación estan ordenados por antiguedad, siendo los primeros, la sinvestigaciones más recientes.
+El objetivo de este item es analizar estudios precedentes para encontrar información fiable sobre los rangos de edad más afectados por la retinopatía diabética. El análisis de los estudios que se encuentran a continuación estan ordenados por antiguedad, siendo los primeros las investigaciones más actuales.
 #### Primer estudio (Colombia, 2022)
 En el año 2022, la revista médica de la Universidad de Antioquia hizo un estudio sobre las complicaciones de la diabetes (retinopatía diabética y edema macular) que causan discapacidad visual en colombianos, de 1203 diabéticos tamizados, el 7,7% tenía diabetes tipo 1 y el 89,2% tenía diabetes tipo 2, además se encontró la alarmante relación de que 1 de 3 personas con diabetes tipo 2 sufre de retinopatía diabética, la mediana del tiempo fue de 63 años, el tiempo de evolución de la enfermedad fue de 15 años con un rango intercuartílico (Medida de variabilidad) entre 7 y 19,5 años [5]. 
 Tabla 1
@@ -57,7 +57,7 @@ En el 2019 la Revista Chilena de Salud Pública publica un estudio titulado "Ret
 Tabla 2
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/9c237721-8232-4b62-944e-c70454c41518)
 Nota. Esta tabla ha sido adaptada de "RETINOPATÍA DIABÉTICA Y EDEMA MACULAR DIABÉTICO: PREVALENCIA EN UNA POBLACIÓN DE ATENCIÓN PRIMARIA DE ANTOFAGASTA", por Soto, Cruz, 2019. Revista Chilena Salud Publica, Vol (22)p. 158
-#### Tercer estudio citado (Perú, 2003)
+#### Tercer estudio  (Perú, 2003)
 En el año 2003 la Universidas Nacional de San Antonio Abad 
  evaluó a 160 pacientes con diabetes 2 en la ciudad de Cusco que pertenecian al Programa de Ciabetes Mellitus EsSALUD y se registró que para un rango de edad entre 40 y 84 años el 35,62 % (57 pacientes) padecía de ritonopatia diabética [7]
 Tabla 3
