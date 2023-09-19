@@ -59,7 +59,7 @@ En la tabla 1 se observaron los siguientes resultados: la media de edad de los a
 *Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.*
 
 Sabiendo ahora con total certeza que tipos de diabetes existen y que la DM2 ocasiona con mayor frecuencia la RD, analizaremos a profundidad dichas enfermedades en conjunto.
-De acuerdo al  Instituto Regional de Oftalmología, de un total de 3239 pacientes con diagnóstico de DM2, el 62,7% fueron mujeres y el 37.3% hombres; con una edad promedio de 59 años, con rangos entre 30 y 97 años. Además, la mayoría de los pacientes (81,2%) tenían menos de 10 años de enfermedad.
+De acuerdo al  Instituto Regional de Oftalmología, de un total de 3239 pacientes con diagnóstico de DM2, el 62,7% fueron mujeres y el 37.3% hombres; con una edad promedio de 59 años, con rangos entre 30 y 97 años. Además, la mayoría de los pacientes (81,2%) tenían menos de 10 años de enfermedad. [11]
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/8d9d6f61-5fc1-4bcf-b432-d7d945111ad7)
 
@@ -67,7 +67,7 @@ De acuerdo al  Instituto Regional de Oftalmología, de un total de 3239 paciente
 
 *Nota. Adaptado de Frecuencia y severidad de retinopatía diabética en pacientes con diabetes mellitus tipo 2 en el Instituto Regional de Oftalmología. (imagen)*
 
-A su vez, del total de pacientes con DM se encontró que 838 (25,9%) presentaron RD, de estos 341 (40,7%) fueron varones y 497 (59,3%) fueron mujeres. En comparación con los pacientes sin RD, la proporción de pacientes con RD fue mayor en varones (28,2%) que en mujeres (24,5%) y en aquellos pacientes con mas de 10 años de enfermedad (49,0%) que en aquellos con 10 o menos años de enfermedad (19,6%). La mayoría de los pacientes con RD tuvieron una edad superior a los 40 años . El sexo, la edad y el tiempo de enfermedad resultaron estadísticamente asociados a la presencia de RD.
+A su vez, del total de pacientes con DM se encontró que 838 (25,9%) presentaron RD, de estos 341 (40,7%) fueron varones y 497 (59,3%) fueron mujeres. En comparación con los pacientes sin RD, la proporción de pacientes con RD fue mayor en varones (28,2%) que en mujeres (24,5%) y en aquellos pacientes con mas de 10 años de enfermedad (49,0%) que en aquellos con 10 o menos años de enfermedad (19,6%). La mayoría de los pacientes con RD tuvieron una edad superior a los 40 años . El sexo, la edad y el tiempo de enfermedad resultaron estadísticamente asociados a la presencia de RD. [11]
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/d1ca6d8d-4d49-489f-b19a-c1302c9dfa8d)
 
