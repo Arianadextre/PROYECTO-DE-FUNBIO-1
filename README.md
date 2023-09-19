@@ -34,19 +34,16 @@ El curso consta de cuatro unidades principales:
 La edad promedio de los participantes al comienzo del estudio se situó en 53.8 años, con un margen de desviación estándar de 9.2 años. En cuanto a la duración de la diabetes mellitus tipo 2, esta fue en promedio de 9 años, con una variación de 6 años. Después de un seguimiento de 12 años, se optó por excluir a 35 pacientes del análisis. Los resultados muestran que la incidencia de eventos a los 3, 6 y 12 años fue del 23%, 48% y 71%, respectivamente. En lo que respecta a la progresión de la enfermedad, se registraron tasas del 56%, 70% y 74% en esos mismos períodos de tiempo. Además, la incidencia y progresión de la retinopatía diabética proliferativa a los 12 años alcanzaron un 14.3% y un 32%, respectivamente. La concentración media de glucosa en sangre se estableció en 193 mg/dl, mientras que la hemoglobina glucosilada promedió un 11%. En términos de mortalidad, el 45% de los participantes falleció, y la mitad de estos decesos fueron atribuibles a un infarto agudo de miocardio.
 
 ### Prevalencia del proyecto
-De acuerdo a la Sociedad Española de oftalmología, las personas que padecen diabetes tipo 2 adquieren retinopatía diabética con mayor frecuencia que las personas que padecen diabetes tipo 1. Dichas cifras se comprueban en el siguiente gráfico: [12]
+De acuerdo a la Sociedad Española de oftalmología, las personas que padecen diabetes tipo 2 (DM2) adquieren retinopatía diabética (RD) con mayor frecuencia que las personas que padecen diabetes tipo 1 (DM1). Dichas cifras se comprueban en el siguiente gráfico: [12]
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/440d11f0-fe98-40da-ba9b-bd12b704597d)
 
 Fig. 1: Distribución de los pacientes según el tipo de DM.
 
 Nota. Adaptado de Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático (imagen)
 
-
-
-
 No obstante, debemos cuestionarnos lo siguiente, ¿qué tan frecuente son los dos tipos de diabetes en el Perú?
 
-El hecho de que el Perú sea uno de los países con más carga de tuberculosis (TB) en las Américas, lo pone en una situación de alerta ante un posible aumento de casos de comorbilidad TB con DM (diabetes mellitus tipo 1). Una revisión sistemática de 200 estudios encontró una prevalencia combinada de DM en pacientes con TB del 15,3%, donde el estimado para América Latina fue del 7,7%3.  [10]
+El hecho de que el Perú sea uno de los países con más carga de tuberculosis (TB) en las Américas, lo pone en una situación de alerta ante un posible aumento de casos de comorbilidad TB con DM1 (diabetes mellitus tipo 1). Una revisión sistemática de 200 estudios encontró una prevalencia combinada de DM en pacientes con TB del 15,3%, donde el estimado para América Latina fue del 7,7%3.  [10]
 
 Entre los años 2016-2018, se encontró que el 9,7% de los 90 468 pacientes con tuberculosis, de los cuales 81 807 eran adultos, sufrían de DM (6529/67 524). Las regiones que tenían mayor proporción de pacientes con TB y DM fueron Tumbes, Moquegua, Piura, Ucayali, San Martin y Cajamarca. Con relación a las instituciones, se encontró una frecuencia de TB con DM en EsSalud del 13,1% (1570/12 018), en la Sanidad de la Policía Nacional del Perú del 12,4% (10/81) y del 9,8% en el MINSA (4860/49 430) dentro de su población con TB. [10]
 
@@ -59,6 +56,8 @@ En la tabla 1 se observaron los siguientes resultados: la media de edad de los a
 Figura 1. Características generales de los casos (adultos mayores con diabetes mellitus tipo 2) 
 
 Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.
+
+Sabiendo ahora con total certeza que tipos de diabetes existen y que la DM2 ocasiona con mayor frecuencia la retinopatía diabética, profundarizaremos en dichas enfermedades en conjunto.
 
 ### Rango de edad más afectado
 El objetivo de este item es analizar estudios precedentes para encontrar información fiable sobre los rangos de edad más afectados por la retinopatía diabética. El análisis de los estudios que se encuentran a continuación estan ordenados por antiguedad, siendo los primeros las investigaciones más actuales.
