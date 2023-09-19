@@ -58,7 +58,8 @@ En la tabla 1 se observaron los siguientes resultados: la media de edad de los a
 
 *Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.*
 
-Sabiendo ahora con total certeza que tipos de diabetes existen y que la DM2 ocasiona con mayor frecuencia la retinopatía diabética, profundarizaremos en dichas enfermedades en conjunto.
+Sabiendo ahora con total certeza que tipos de diabetes existen y que la DM2 ocasiona con mayor frecuencia la RD, analizaremos a profundidad dichas enfermedades en conjunto.
+De acuerdo al  Instituto Regional de Oftalmología, de un total de 3239 pacientes con diagnóstico de DM2, el 62,7% fueron mujeres y el 37.3% hombres; con una edad promedio de 59 años, con rangos entre 30 y 97 años. Además, la mayoría de los pacientes (81,2%) tenían menos de 10 años de enfermedad.
 
 ### Rango de edad más afectado
 El objetivo de este item es analizar estudios precedentes para encontrar información fiable sobre los rangos de edad más afectados por la retinopatía diabética. El análisis de los estudios que se encuentran a continuación estan ordenados por antiguedad, siendo los primeros las investigaciones más actuales.
