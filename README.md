@@ -115,6 +115,7 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/bf03b1ad-c9a3-4966-9a63-5a4a3e08bd94)
 
 ##### Producto comercial 3
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/dfcdc133-b694-471e-979e-4a49fa23f5a2)
 
 
 
