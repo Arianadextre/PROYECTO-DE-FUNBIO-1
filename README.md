@@ -150,11 +150,10 @@ El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte
 
 ### Profesores del curso
 
-- Paulo Camilo Ventón
-- Umbert Lewis De La Cruz
-- Moisés Meza
-- José Alonso Cáceres
-- Julissa Venancio
+- Paulo Camilo Alberto Vela Anton
+- Umbert Lewis de la Cruz Rodriguez
+- Eder Juárez
+- Jose Alonso Cáceres del Aguila
 
 ### Bibliografía
 1-	Yovera-Aldana, M., Velásquez-Rimachi, V., Huerta-Rosario, A., More-Yupanqui, M. D., Osores-Flores, M., Espinoza, R., Gil-Olivares, F., Quispe-Nolazco, C., Quea-Vélez, F., Morán-Mariños, C., Pinedo-Torres, I., Alva-Diaz, C., & Pacheco-Barrios, K. (2021). Prevalence and incidence of Diabetic peripheral Neuropathy in Latin America and the Caribbean: a systematic review and meta-analysis. PLOS ONE, 16(5), e0251642. https://doi.org/10.1371/journal.pone.0251642
