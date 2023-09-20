@@ -122,17 +122,14 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
 
  
 ### Funcionales ¿Qué debe hacer mi diseño?
-- [X] Reconocer retinopatía diabética generado en los ojos
-- [X] Detectar si se trata de DM2 o DM1 
-- [X] Informar en qué fase se encuentra la enfermedad
-- [ ] Brindar un posible diagnóstico
+- [X] Conexión con aplicativo, el cuál brinda información detallada de la evaluación de la hinchazón de la macula del usuario.
+- [X] Procesador óptico de ondas infrarrojas para emitir ondas que detectan las venas. 
+- [X] Lectura y proyección de venas en tiempo real, aún cuando el paciente se mueve.
 
 ### No Funcionales ¿Qué propiedades debe poseer nuestro diseño?
-- [X] Costo asequible
-- [X] Práctico manejo
-- [X] Diagnóstico veloz
-- [X] Independencia total a una conexión a internet
-- [X] Transporte práctico
+- [X] Transporte eficaz.
+- [X] Instrucciones detalladas.
+- [X] Batería duradera.
 
 ### Propuesta de solución
 El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte de la cámara, de modo que medirá la profundidad y las venas afectadas por la diabetes dando un posible diagnóstico médico.  
