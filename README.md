@@ -145,6 +145,9 @@ identificar: el dispositivo identifica  la imagen que recibe
 procesar: esta funcion procesa los datos del sistema
 medir: esta funcion mide los datos recibidos
 mostrar: se muestran   de los datos obtenidos
+### Matriz morfologica
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/c534ace2-4f32-47d8-9ffa-7175d5d313b5)
+
 ### Integrantes del proyecto
 
 - Alexander Martinez (Colaborador - Encargado de investigación) - alexander.martinez@upch.pe
@@ -163,6 +166,7 @@ mostrar: se muestran   de los datos obtenidos
 - Umbert Lewis de la Cruz Rodriguez
 - Eder Juárez
 - Jose Alonso Cáceres del Aguila
+
 
 ### Bibliografía
 1-	Yovera-Aldana, M., Velásquez-Rimachi, V., Huerta-Rosario, A., More-Yupanqui, M. D., Osores-Flores, M., Espinoza, R., Gil-Olivares, F., Quispe-Nolazco, C., Quea-Vélez, F., Morán-Mariños, C., Pinedo-Torres, I., Alva-Diaz, C., & Pacheco-Barrios, K. (2021). Prevalence and incidence of Diabetic peripheral Neuropathy in Latin America and the Caribbean: a systematic review and meta-analysis. PLOS ONE, 16(5), e0251642. https://doi.org/10.1371/journal.pone.0251642
