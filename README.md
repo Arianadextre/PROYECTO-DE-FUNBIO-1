@@ -169,13 +169,16 @@ A través de las cámaras OV7670, las cuales contienen un sensor CMO cada una, s
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/823eaded-2b41-442c-af7a-22d2944e5a90)
 
 
-*Boceto en conjunto*
+*Boceto en conjunto*:
+
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/7e06126e-8022-4e0d-9bac-b8a5d2b08e34)
 
 *Descripción del funcionamiento*:
+
 El casco que diseñamos tiene como función principal recopilar imágenes del ojo de un paciente con glaucoma. La luz influye profundamente en observar y capturar a detalle del fondo de ojo, por lo cual el casco contiene 4 leds en cada ojo para  mejorar la iluminación y contraer la pupila para obtener una mejor captura, además usaremos una rueda que moverá el sensor CMO en los ángulos más indispensables mientras las imágenes son grabadas  y enviadas por bluetooth gracias a la conexión con el arduino, en un aplicativo en el celular obtendremos las imágenes del ojo que serán enviadas a un oftalmólogo y guardadas en su historia clínica.
 
 *Lista de despiece*:
+
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/83f4beb9-c4c4-409c-b44d-f521dee311a3)
 
 
