@@ -159,8 +159,8 @@ La propuesta número 2 fue la ganadora ya que a pesar de poseer un costo de ensa
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/3ae03ce5-c91e-4345-9bbe-1f0ad6114797)
 
+*Funcionamiento*: En este dispositivo, se necesitarán de dos personas: un especialista el cual usará los lentes y el paciente.
 
-*Funcionamiento*:
 
 ### Integrantes del proyecto
 
