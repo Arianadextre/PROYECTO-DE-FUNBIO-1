@@ -152,6 +152,8 @@ mostrar: se muestran   de los datos obtenidos
 ### Conclusion
 La propuesta número 2 fue la ganadora ya que a pesar de poseer un costo de ensamblaje mayor a otras opciones, su facilidad de uso y la seguridad que brinda al paciente, la hacen una buena opción de desarrollo para tratar la retinopatía diabética. Además sus características la hacen útil tanto para el uso de un ciudadano común como el de personal médico, por su tamaño pequeño y ser integrable a un aparato cotidiano como serian los celulares, tendría un fácil acceso al almacenamiento de la información recolectada.
 
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/078b0acf-27ca-40da-8c2c-dd2581c3f2e9)
+
 
 ### Integrantes del proyecto
 
