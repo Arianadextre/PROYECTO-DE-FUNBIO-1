@@ -166,12 +166,8 @@ A través de las cámaras OV7670, las cuales contienen un sensor CMO cada una, s
 
 ### Boceto 2
 
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/e8b288df-02a7-4734-951f-cca1ac985187)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/823eaded-2b41-442c-af7a-22d2944e5a90)
 
-
-*Título del proyecto*: Casco grabador de fondo de ojo.
-
-*Dibujado por*: Ariana Dextre
 
 *Boceto en conjunto*
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/7e06126e-8022-4e0d-9bac-b8a5d2b08e34)
