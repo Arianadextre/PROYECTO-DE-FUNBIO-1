@@ -163,6 +163,14 @@ La propuesta número 2 fue la ganadora ya que a pesar de poseer un costo de ensa
 
 *Funcionamiento*: En este dispositivo, se necesitarán de dos personas: un especialista el cual usará el lente y el paciente.
 A través de las cámaras OV7670, las cuales contienen un sensor CMO cada una, se registrarán imágenes a profundidad de los ojos, las que serán procesadas por el arduino UNO; y este se encargará a través de la la computadora (y su programación) de encender los leds cuando se detecte la anomalía presente. Finalmente, una vez sean capturadas dichas fotografías, estas aparecerán en la computadora en blanco y negro, y así puedan ser estudiadas por el especialista.
+### Boceto 2
+*Título del proyecto*: Casco grabador de fondo de ojo.
+*Dibujado por*: Ariana Dextre
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/7e06126e-8022-4e0d-9bac-b8a5d2b08e34)
+*Descripción del funcionamiento*:
+El casco que diseñamos tiene como función principal recopilar imágenes del ojo de un paciente con glaucoma. La luz influye profundamente en observar y capturar a detalle del fondo de ojo, por lo cual el casco contiene 4 leds en cada ojo para  mejorar la iluminación y contraer la pupila para obtener una mejor captura, además usaremos una rueda que moverá el sensor CMO en los ángulos más indispensables mientras las imágenes son grabadas  y enviadas por bluetooth gracias a la conexión con el arduino, en un aplicativo en el celular obtendremos las imágenes del ojo que serán enviadas a un oftalmólogo y guardadas en su historia clínica.
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/83f4beb9-c4c4-409c-b44d-f521dee311a3)
+
 
 ### Integrantes del proyecto
 
