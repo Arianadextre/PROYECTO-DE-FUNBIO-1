@@ -157,7 +157,8 @@ La propuesta número 2 fue la ganadora ya que a pesar de poseer un costo de ensa
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/078b0acf-27ca-40da-8c2c-dd2581c3f2e9)
 
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/b8bfba8a-2a68-4cbf-96e9-b5ae8b622006)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/3ae03ce5-c91e-4345-9bbe-1f0ad6114797)
+
 
 *Funcionamiento*:
 
