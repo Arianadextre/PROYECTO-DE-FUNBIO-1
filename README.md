@@ -176,7 +176,7 @@ A través de las cámaras OV7670, las cuales contienen un sensor CMO cada una, s
 
 *Descripción del funcionamiento*:
 
-El casco que diseñamos tiene como función principal recopilar imágenes del ojo de un paciente con glaucoma. La luz influye profundamente en observar y capturar a detalle del fondo de ojo, por lo cual el casco contiene 4 leds en cada ojo para  mejorar la iluminación y contraer la pupila para obtener una mejor captura, además usaremos una rueda que moverá el sensor CMO en los ángulos más indispensables mientras las imágenes son grabadas  y enviadas por bluetooth gracias a la conexión con el arduino, en un aplicativo en el celular obtendremos las imágenes del ojo que serán enviadas a un oftalmólogo y guardadas en su historia clínica.
+El casco que diseñamos tiene como función principal recopilar imágenes del fondo de ojo de un paciente con glaucoma. La luz influye profundamente en observar y capturar a detalle el fondo de ojo, por lo cual el casco contiene 4 leds en cada ojo para  mejorar la iluminación y contraer la pupila para obtener una mejor captura, además usaremos una rueda que moverá el sensor CMO en los ángulos más indispensables mientras las imágenes son grabadas  y enviadas por bluetooth gracias a la conexión con el arduino, en un aplicativo en el celular obtendremos las imágenes del ojo que serán enviadas a un oftalmólogo y guardadas en su historia clínica.
 
 *Lista de despiece*:
 
