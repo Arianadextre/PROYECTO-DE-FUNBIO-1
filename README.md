@@ -192,6 +192,7 @@ Para este dispositivo, se colocará la parte llamada “pieza de plástico cuadr
 ### Tablas de Valoración Técnica y Económica:
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/127434c1-d99d-497f-828d-6107e673ee37)
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/874368ba-2fde-48c6-9376-a44929f02c9a)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/d81559c6-c2a6-4e9d-b98f-41f3c46a1c33)
 
 
 ### Integrantes del proyecto
