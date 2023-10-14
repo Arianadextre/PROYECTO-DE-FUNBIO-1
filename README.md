@@ -34,9 +34,9 @@ El curso consta de cuatro unidades principales:
 Un estudio de 12 años realizado por la Academia Mexicana de Cirugía sobre pacientes con diabetes mellitus tipo 2 reveló datos alarmantes. Se detectó que el 14.3% de los pacientes desarrollaron retinopatía diabética. La edad promedio al inicio del estudio fue de 53.8 años, con una duración promedio de la diabetes tipo 2 de 9 años. Tras 12 años de seguimiento, se excluyó a 35 pacientes del análisis. Se observaron incidencias del 23%, 48% y 71% de eventos de retinopatía diabética a los 3, 6 y 12 años, respectivamente. La progresión de la enfermedad también fue significativa, con tasas del 56%, 70% y 74% en los mismos períodos de tiempo. La retinopatía diabética proliferativa alcanzó un 32% a los 12 años. La concentración media de glucosa en sangre fue de 193 mg/dl, y la hemoglobina glucosilada promedió un 11%. La mortalidad fue del 45%, siendo la mitad de estos fallecimientos atribuibles a un infarto agudo de miocardio.
 
 ### Prevalencia del proyecto
-De acuerdo al departamento de Oftalmología llamado "Jinan People Hospital Shandong", la glaucoma es una de las enfermedades oculares con el mayor número de ceguera humana, contando con aproximadamente más de 60 millones de pacientes con glaucoma en el mundo.
-
-
+De acuerdo al departamento de Oftalmología llamado "Jinan People Hospital Shandong", la glaucoma es una de las enfermedades oculares con el mayor número de ceguera humana, contando con aproximadamente más de 60 millones de pacientes con glaucoma en el mundo. Está previsto que esta enfermedad aumente de 76 millones de casos en el 2020 a 112 millones en 2040. 
+Además, se piensa que la población mayor de 50 años, la cual padece más este mal, se duplique durante los próximos 20 años. 
+Actualmente, en el mundo se estima que existen 80 millones de personas que padecen glaucoma y que este, representa el 2% de los casos de ceguera a nivel mundial.
 
 
 ### Rango de edad más afectado
@@ -193,7 +193,8 @@ https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Contr
 
 8- https://www.semanticscholar.org/paper/Factores-de-riesgo-de-retinopatía-diabética-en-tipo-Espinoza-Sota/a98fc51581b49a5ccdd06d9fc6e059e348c82558
 
-9- Rodríguez-Villalobos E, Cervantes-Aguayo F, Vargas-Salado E, et al. Retinopatía diabética. Incidencia y progresión a 12 años. Cir Cir. 2005;73(2):79-84.
+9- https://www.ino.gob.pe/pacientes-glaucoma-nolosaben/
+
 
 10-	Ugarte-Gil C, Curisinche M, Herrrera-Flores E, Hernandez H, Rios J. Situación de la comorbilidad tuberculosis y diabetes en personas adultas en el Perú, 2016-2018. Rev Peru Med Exp Salud Publica [Internet]. 2021 [citado el 19 de septiembre de 2023];38(2):254–60. Disponible en: https://www.scielosp.org/article/rpmesp/2021.v38n2/254-260/
 
