@@ -198,6 +198,8 @@ https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Contr
 10- Current applications of machine learning in the screening and diagnosis of glaucoma: a systematic review and Meta-analysis- PDF
 (G5_GLAUCOMA_04.pdf)
 
+11.https://sisbib.unmsm.edu.pe/bvrevistas/situa/2000_n15/prevalencia.htm#:~:text=En%20el%20Per%C3%BA%2C%20la%20poblaci%C3%B3n,casos%20por%20a%C3%B1o%20(1).
+
 10-	Ugarte-Gil C, Curisinche M, Herrrera-Flores E, Hernandez H, Rios J. Situación de la comorbilidad tuberculosis y diabetes en personas adultas en el Perú, 2016-2018. Rev Peru Med Exp Salud Publica [Internet]. 2021 [citado el 19 de septiembre de 2023];38(2):254–60. Disponible en: https://www.scielosp.org/article/rpmesp/2021.v38n2/254-260/
 
 11- 	Adrianzén RE, Rioja M, Manrique A. Frecuencia y severidad de retinopatía diabética en pacientes con diabetes mellitus tipo 2 en el Instituto Regional de Oftalmología. Rev Peru Med Exp Salud Publica [Internet]. 2019 [citado el 19 de septiembre de 2023];36(2):260. Disponible en: https://www.scielosp.org/article/rpmesp/2019.v36n2/260-264/
