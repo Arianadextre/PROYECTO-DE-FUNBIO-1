@@ -34,9 +34,9 @@ El curso consta de cuatro unidades principales:
 Un estudio de 12 años realizado por la Academia Mexicana de Cirugía sobre pacientes con diabetes mellitus tipo 2 reveló datos alarmantes. Se detectó que el 14.3% de los pacientes desarrollaron retinopatía diabética. La edad promedio al inicio del estudio fue de 53.8 años, con una duración promedio de la diabetes tipo 2 de 9 años. Tras 12 años de seguimiento, se excluyó a 35 pacientes del análisis. Se observaron incidencias del 23%, 48% y 71% de eventos de retinopatía diabética a los 3, 6 y 12 años, respectivamente. La progresión de la enfermedad también fue significativa, con tasas del 56%, 70% y 74% en los mismos períodos de tiempo. La retinopatía diabética proliferativa alcanzó un 32% a los 12 años. La concentración media de glucosa en sangre fue de 193 mg/dl, y la hemoglobina glucosilada promedió un 11%. La mortalidad fue del 45%, siendo la mitad de estos fallecimientos atribuibles a un infarto agudo de miocardio.
 
 ### Prevalencia del proyecto
-Según las estadísticas, la glaucoma es una de las enfermedades oculares con el mayor número de ceguera humana. 
+De acuerdo al departamento de Oftalmología llamado "Jinan People Hospital Shandong", la glaucoma es una de las enfermedades oculares con el mayor número de ceguera humana, contando con aproximadamente más de 60 millones de pacientes con glaucoma en el mundo.
 
-file:///C:/Users/avillalobos/Downloads/G5_GLAUCOMA_04.pdf
+
 
 
 ### Rango de edad más afectado
