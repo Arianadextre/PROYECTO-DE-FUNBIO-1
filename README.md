@@ -37,7 +37,7 @@ Un estudio de 12 años realizado por la Academia Mexicana de Cirugía sobre paci
 (10) De acuerdo al departamento de Oftalmología llamado "Jinan People Hospital Shandong", la glaucoma es una de las enfermedades oculares con el mayor número de ceguera humana, contando con aproximadamente más de 60 millones de pacientes con glaucoma en el mundo. Está previsto que esta enfermedad aumente de 76 millones de casos en el 2020 a 112 millones en 2040.  
 (9) Actualmente, en el mundo se estima que existen 80 millones de personas que padecen glaucoma y que este, representa el 2% de los casos de ceguera a nivel mundial. (10) A su vez, de esta cifra mencionada, el 2% aproximadamente rondan los 40 años, y la estadística aumenta al 4%, en la cual se encuentran las personas de 50 años a 80 años.
 Es más probable observar un ojo glaucomatoso en promedio trece veces más frecuentemente que en el población general.
-
+(11) Por último, en Perú se examinaron un total de 4.849 personas, y de acuerdo a PubMed, la prevalencia de ceguera fue del 2,0% (intervalo de confianza del 95%: 1,5-2,5%). Las principales causas de ceguera fueron cataratas (58,0%), glaucoma (13,7%) y degeneración macular asociada a la edad (11,5%).
 
 ### Rango de edad más afectado
 El objetivo de este item es analizar estudios precedentes para encontrar información fiable sobre los rangos de edad más afectados por la retinopatía diabética. El análisis de los estudios que se encuentran a continuación estan ordenados por antiguedad, siendo los primeros las investigaciones más actuales.
@@ -198,11 +198,8 @@ https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Contr
 10- Current applications of machine learning in the screening and diagnosis of glaucoma: a systematic review and Meta-analysis- PDF
 (G5_GLAUCOMA_04.pdf)
 
-11.https://sisbib.unmsm.edu.pe/bvrevistas/situa/2000_n15/prevalencia.htm#:~:text=En%20el%20Per%C3%BA%2C%20la%20poblaci%C3%B3n,casos%20por%20a%C3%B1o%20(1).
+11- https://pubmed.ncbi.nlm.nih.gov/25604097/
 
-10-	Ugarte-Gil C, Curisinche M, Herrrera-Flores E, Hernandez H, Rios J. Situación de la comorbilidad tuberculosis y diabetes en personas adultas en el Perú, 2016-2018. Rev Peru Med Exp Salud Publica [Internet]. 2021 [citado el 19 de septiembre de 2023];38(2):254–60. Disponible en: https://www.scielosp.org/article/rpmesp/2021.v38n2/254-260/
-
-11- 	Adrianzén RE, Rioja M, Manrique A. Frecuencia y severidad de retinopatía diabética en pacientes con diabetes mellitus tipo 2 en el Instituto Regional de Oftalmología. Rev Peru Med Exp Salud Publica [Internet]. 2019 [citado el 19 de septiembre de 2023];36(2):260. Disponible en: https://www.scielosp.org/article/rpmesp/2019.v36n2/260-264/
 
 12- 	Vleming EN, Castro M, López-Molina MI, Teus MA. Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático. Arch Soc Esp Oftalmol [Internet]. 2009 [citado el 19 de septiembre de 2023];84(5):231–6. Disponible en: https://scielo.isciii.es/scielo.php?pid=S0365-66912009000500003&script=sci_arttext
 
