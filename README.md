@@ -34,47 +34,6 @@ El curso consta de cuatro unidades principales:
 Un estudio de 12 años realizado por la Academia Mexicana de Cirugía sobre pacientes con diabetes mellitus tipo 2 reveló datos alarmantes. Se detectó que el 14.3% de los pacientes desarrollaron retinopatía diabética. La edad promedio al inicio del estudio fue de 53.8 años, con una duración promedio de la diabetes tipo 2 de 9 años. Tras 12 años de seguimiento, se excluyó a 35 pacientes del análisis. Se observaron incidencias del 23%, 48% y 71% de eventos de retinopatía diabética a los 3, 6 y 12 años, respectivamente. La progresión de la enfermedad también fue significativa, con tasas del 56%, 70% y 74% en los mismos períodos de tiempo. La retinopatía diabética proliferativa alcanzó un 32% a los 12 años. La concentración media de glucosa en sangre fue de 193 mg/dl, y la hemoglobina glucosilada promedió un 11%. La mortalidad fue del 45%, siendo la mitad de estos fallecimientos atribuibles a un infarto agudo de miocardio.
 
 ### Prevalencia del proyecto
-De acuerdo a la Sociedad Española de oftalmología, las personas que padecen diabetes tipo 2 (DM2) adquieren retinopatía diabética (RD) con mayor frecuencia que las personas que padecen diabetes tipo 1 (DM1). Dichas cifras se comprueban en el siguiente gráfico: [12]
-
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/440d11f0-fe98-40da-ba9b-bd12b704597d)
-
-*Fig. 1: Distribución de los pacientes según el tipo de DM.*
-
-*Nota. Adaptado de Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático (imagen)*
-
-No obstante, debemos cuestionarnos lo siguiente, ¿qué tan frecuente son los dos tipos de diabetes en el Perú?
-
-El hecho de que el Perú sea uno de los países con más carga de tuberculosis (TB) en las Américas, lo pone en una situación de alerta ante un posible aumento de casos de comorbilidad TB con DM1 (diabetes mellitus tipo 1). Una revisión sistemática de 200 estudios encontró una prevalencia combinada de DM en pacientes con TB del 15,3%, donde el estimado para América Latina fue del 7,7%.  [10]
-
-Entre los años 2016-2018, se encontró que el 9,7% de los 90 468 pacientes con tuberculosis, de los cuales 81 807 eran adultos, sufrían de DM (6529/67 524). Las regiones que tenían mayor proporción de pacientes con TB y DM fueron Tumbes, Moquegua, Piura, Ucayali, San Martin y Cajamarca. Con relación a las instituciones, se encontró una frecuencia de TB con DM en EsSalud del 13,1% (1570/12 018), en la Sanidad de la Policía Nacional del Perú del 12,4% (10/81) y del 9,8% en el MINSA (4860/49 430) dentro de su población con TB. [10]
-
-Por otro lado, con  respecto a la diabetes tipo 2, se realizó un estudio con respecto a 300 adultos mayores, los cuales poseían antecedentes patológicos y que fueron atendidos entre el 1 de enero y el 31 de diciembre del 2018 en el Hospital Nacional Sergio E Rabanales, con lo cual se determinó que 150 pacientes con 60 años o más sufrían de diabetes mellitus tipo 2 (DM2), 150 pacientes de 60 años o más no sufrían DM2. Cabe recalcar que se tuvieron que excluir 50 pacientes que sufrían pancreatitis y no tener las historias clínicas completas. Es así, que la muestra total seleccionada fue de 250 adultos mayores. [3]
-
-En la tabla 1 se observaron los siguientes resultados: la media de edad de los adultos mayores fue de 70,44 años; el mayor porcentaje lo obtuvo el sexo femenino (56%). Asimismo, el 49,33% de los pacientes había sido hospitalizado anteriormente. Además, se observó que la media de los triglicéridos en los adultos mayores fue de 213,71 mg/dl; respecto al colesterol, fue de 242,48 mg/dl, y la glucosa de 191,79 mg/dl. Por último, el 50% de los adultos mayores presentó un IMC de sobrepeso. [3]
-
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/2aa18104-2eb7-4467-9f1b-037ea3713e31)
-
-*Figura 2. Características generales de los casos (adultos mayores con diabetes mellitus tipo 2)*
-
-*Nota. Adaptado de Pacientes geriátricos con diabetes mellitus tipo 2 e impacto de factores modificables. Perú (imagen) por Scielo.*
-
-Sabiendo ahora con total certeza que tipos de diabetes existen y que la DM2 ocasiona con mayor frecuencia la RD, analizaremos a profundidad dichas enfermedades en conjunto.
-De acuerdo al  Instituto Regional de Oftalmología, de un total de 3239 pacientes con diagnóstico de DM2, el 62,7% fueron mujeres y el 37.3% hombres; con una edad promedio de 59 años, con rangos entre 30 y 97 años. Además, la mayoría de los pacientes (81,2%) tenían menos de 10 años de enfermedad. [11]
-
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/8d9d6f61-5fc1-4bcf-b432-d7d945111ad7)
-
-*Figura 3. Características generales de los pacientes con diabetes mellitus tipo 2 atendidos en el Instituto Regional de Oftalmología, 2016-2018*
-
-*Nota. Adaptado de Frecuencia y severidad de retinopatía diabética en pacientes con diabetes mellitus tipo 2 en el Instituto Regional de Oftalmología. (imagen)*
-
-A su vez, del total de pacientes con DM se encontró que 838 (25,9%) presentaron RD, de estos 341 (40,7%) fueron varones y 497 (59,3%) fueron mujeres. En comparación con los pacientes sin RD, la proporción de pacientes con RD fue mayor en varones (28,2%) que en mujeres (24,5%) y en aquellos pacientes con mas de 10 años de enfermedad (49,0%) que en aquellos con 10 o menos años de enfermedad (19,6%). La mayoría de los pacientes con RD tuvieron una edad superior a los 40 años . El sexo, la edad y el tiempo de enfermedad resultaron estadísticamente asociados a la presencia de RD. [11]
-
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/d1ca6d8d-4d49-489f-b19a-c1302c9dfa8d)
-
-*Figura 4.Frecuencia de retinopatía diabética según sexo, edad y tiempo de enfermedad en pacientes con diabetes mellitus tipo 2 atendidos en el Instituto Regional de Oftalmología, 2016-2018*
-
-*Nota. Adaptado de Frecuencia y severidad de retinopatía diabética en pacientes con diabetes mellitus tipo 2 en el Instituto Regional de Oftalmología. (imagen)*
-
 
 
 
