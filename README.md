@@ -193,12 +193,12 @@ https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Contr
 
 8- https://www.semanticscholar.org/paper/Factores-de-riesgo-de-retinopatía-diabética-en-tipo-Espinoza-Sota/a98fc51581b49a5ccdd06d9fc6e059e348c82558
 
-9- https://www.ino.gob.pe/pacientes-glaucoma-nolosaben/
+9- 2.	Dulanto S. EL 50 % DE LOS PACIENTES QUE TIENEN GLAUCOMA NO LO SABEN – Instituto Nacional de Oftalmología “Dr. Francisco Contreras Campos”" [Internet]. Gob.pe. [citado el 17 de octubre de 2023]. Disponible en: https://www.ino.gob.pe/pacientes-glaucoma-nolosaben/
 
 10- Current applications of machine learning in the screening and diagnosis of glaucoma: a systematic review and Meta-analysis- PDF
 (G5_GLAUCOMA_04.pdf)
 
-11- https://pubmed.ncbi.nlm.nih.gov/25604097/
+11- Campos B, Cerrate A, Montjoy E, Dulanto GV, Gonzales C, Tecse A, et al. National survey on the prevalence and causes of blindness in Peru. Rev Panam Salud Publica [Internet]. 2014 [citado el 17 de octubre de 2023];36(5). Disponible en: https://pubmed.ncbi.nlm.nih.gov/25604097/
 
 
 12- 	Vleming EN, Castro M, López-Molina MI, Teus MA. Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático. Arch Soc Esp Oftalmol [Internet]. 2009 [citado el 19 de septiembre de 2023];84(5):231–6. Disponible en: https://scielo.isciii.es/scielo.php?pid=S0365-66912009000500003&script=sci_arttext
