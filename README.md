@@ -156,7 +156,8 @@ Para este dispositivo, se colocará la parte llamada “pieza de plástico cuadr
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/d81559c6-c2a6-4e9d-b98f-41f3c46a1c33)
 
 ### Esquema electrónico del concepto de solución:
-![Schematic_Funbiogrupo5_2023-10-18](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/71b5b526-2501-4e92-b8aa-a87bda28e7fe)
+
+[Schematic_Funbiogrupo5_2023-10-18.pdf](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/files/13031911/Schematic_Funbiogrupo5_2023-10-18.pdf)
 
 ### Modelado 3D de la propuesta de solución 
 https://skfb.ly/oMzUv
