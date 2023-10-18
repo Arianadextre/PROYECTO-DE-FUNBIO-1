@@ -158,7 +158,8 @@ Para este dispositivo, se colocará la parte llamada “pieza de plástico cuadr
 ### Esquema electrónico del concepto de solución:
 ![Schematic_Funbiogrupo5_2023-10-18](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/71b5b526-2501-4e92-b8aa-a87bda28e7fe)
 
-
+### Modelado 3D de la propuesta de solución 
+https://skfb.ly/oMzUv
 ### Integrantes del proyecto
 
 - Alexander Martinez (Colaborador - Encargado de investigación) - alexander.martinez@upch.pe
