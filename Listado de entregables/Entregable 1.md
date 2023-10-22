@@ -7,6 +7,7 @@
 - [Prevalencia del proyecto](#Prevalencia-del-proyecto)
 - [Rango de edad más afectado](#Rango-de-edad-más-afectado)
 - [Diagnóstico y tratamientos más usados](#Diagnóstico-y-tratamientos-más-usados)
+- [Bibliografía](#Bibliografía)
 
 ## Incidencia del proyecto
 
@@ -19,3 +20,5 @@ Es más probable observar un ojo glaucomatoso en promedio trece veces más frecu
 ## Rango de edad más afectado
 
 ## Diagnóstico y tratamientos más usados
+
+## Bibliografía
