@@ -1,11 +1,14 @@
 
 
-Proyectos novedosos relacionados al proyecto
 
-Funcionales ¿Qué debe hacer mi diseño?
+## Índice
 
-No Funcionales ¿Qué propiedades debe poseer nuestro diseño?
+## Proyectos novedosos relacionados al proyecto
 
-Propuesta de solución
+## Funcionales ¿Qué debe hacer mi diseño?
 
-Estado del arte
+## No Funcionales ¿Qué propiedades debe poseer nuestro diseño?
+
+## Propuesta de solución
+
+## Estado del arte
