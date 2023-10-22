@@ -95,8 +95,8 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
 ### Propuesta de solución
 El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte de la cámara, de modo que medirá la profundidad y las venas afectadas por la diabetes dando un posible diagnóstico médico.  
 ### Esquema de funciones (caja negra)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/1a969c99-16f8-4eeb-a774-a7105e59e47a)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/4203fc07-6be1-48c9-8066-90cf5265bf13)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/99070b5d-82ae-4be7-a2ec-7c3aeed3dd05)
+
 
 
 
@@ -107,7 +107,10 @@ procesar: esta funcion procesa los datos del sistema
 medir: esta funcion mide los datos recibidos
 mostrar: se muestran   de los datos obtenidos
 ### Matriz morfologica
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/c534ace2-4f32-47d8-9ffa-7175d5d313b5)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/393f2969-044d-4de1-aee8-2aee79b33226)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/d18c931c-7102-4135-b4ac-bc500f93bcdc)
+
+
 
 ### Tabla de valoracion
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/d3a57860-8887-476c-b80a-a55a2533b200)
