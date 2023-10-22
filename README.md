@@ -95,7 +95,10 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
 ### Propuesta de solución
 El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte de la cámara, de modo que medirá la profundidad y las venas afectadas por la diabetes dando un posible diagnóstico médico.  
 ### Esquema de funciones (caja negra)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/c8520132-8176-4486-9f1a-5432ebc32a95)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/1a969c99-16f8-4eeb-a774-a7105e59e47a)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/4203fc07-6be1-48c9-8066-90cf5265bf13)
+
+
 
 regular:regular la energia eléctrica que ingresa a los componentes
 accionar:esta funcion genera la acción necesaria para activar el dispositivo 
