@@ -61,9 +61,8 @@ Nota. Esta tabla ha sido adaptada de "FACTORES DE RIESGO DE RETINOPATÍA DIABÉT
 En sintesís decimos que aunque la retinopatía diabética puede afectar a cualquier rango de edad, por lo general los adultos y adultos mayores (40 años a más) son los más afectados.
 
 ### Diagnóstico y tratamientos más usados
-El diagnóstico más certero es un análisis de sangre en el que pueden ver la concentración de glucosa en el cuerpo y si esta dentro de los limites naturales, otras formas de diagnosticarlo, según la revista triple-s, es a través de algunos síntomas entre los cuales destacan el aumento de las ganas de orinar, adormecimiento o perdida de sensibilidad en manos y pies, sed frecuente, perdida o disminución de visión por engrosamiento de venas, entre otras.
-Actualmente no existe cura para la diabetes, no obstante, hay tratamientos para reducir su avance estos tratamientos en general son 3: dieta, ejercicios y medicamentos. La dieta consiste en evitar todo lo que tenga exceso de glucosa, especialmente el azúcar y las grasas, todo definido por un nutricionista; el ejercicio tiene que ser uno que motive la circulación de la sangre puesto que la diabetes debilita y daña las arterias y venas secundarias o de menor tamaño, por lo que una buena circulación sanguínea es necesaria; por último, para evitar problemas con los diversos órganos afectados o que pueden ser afectados, se utilizan medicamentos que evitan el aumento del mismo.
-
+Dado que las personas mayores de 60 son más propensos a tener diversas enfermedades especialmente con la glaucoma, según la Clínica Universidad de Navarra, se tienen que hacer revisiones necesarias para su salud por lo que si el paciente presenta problemas con el campo visual, un nervio óptico anormal en el examen de oftalmología y una presión intraocular mayor a 21 mmHg, se realiza un estudio para descartar otras enfermedades para que sea diagnosticado con glaucoma.
+Actualmente no existe cura para la glaucoma, no obstante,exisnten unas gotas que detienen el avance de esta enfermedad, estas gotas reducen la presión del ojo y previenen el daño al nervio óptico, sin embargo no curan ni revierten los efectos de la enfermedad, como lo son la perdida de visión o el daño ya existente al nervio(Medicamentos para el glaucoma | National Eye Institute, s. f.).
 
 
 ### Proyectos novedosos relacionados al proyecto
@@ -93,7 +92,7 @@ La retinopatía diabética (RD) es una complicación habitual de la diabetes y r
 - [X] Batería duradera.
 
 ### Propuesta de solución
-El proyecto tratará sobre un dispositivo que se adiciona al celular en la parte de la cámara, de modo que medirá la profundidad y las venas afectadas por la diabetes dando un posible diagnóstico médico.  
+El proyecto tratará sobre un dispositivo semejante a un casco de realidad virtual que permita tomar fotos del fondo de ojo sin necesidad de un especialista presente.
 ### Esquema de funciones (caja negra)
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/99070b5d-82ae-4be7-a2ec-7c3aeed3dd05)
 
@@ -196,10 +195,9 @@ https://cad.onshape.com/documents/ea0e45d449db52d3bf17e17c/w/3b3595c9db5c857a61e
 3-	Villena, J. (2015). Diabetes mellitus in Peru. Annals of global health, 81(6), 765-775.
 https://doi.org/10.1016/j.aogh.2015.12.018
 
-4-	triple-s. Bluecross blueshield of Puerto Rico (2017). La diabetes y su control.
-https://salud.grupotriples.com/wp-content/uploads/2017/09/La-Diabetes-y-su-Control-SPA.pdf
+4-	Medicamentos para el glaucoma | National Eye Institute. (s. f.). https://www.nei.nih.gov/espanol/Glaucoma/medicamentos-para-el-glaucoma#:~:text=El%20tratamiento%20m%C3%A1s%20com%C3%BAn%20para,pero%20pueden%20evitar%20que%20empeore.
 
-5- https://revistas.udea.edu.co/index.php/iatreia/article/view/344736
+5-Glaucoma | Prevención, diagnóstico y tratamiento | CUN. (s. f.). https://www.cun.es. https://www.cun.es/enfermedades-tratamientos/enfermedades/glaucoma#:~:text=Las%20pruebas%20que%20se%20realizan,es%20necesario%20dilatar%20el%20ojo.
 
 7- https://pdfs.semanticscholar.org/a638/9e311efcce207c99dd3eaa796beaa2fa8620.pdf?_gl=1*1a2un1e*_ga*MTM4Njk0MzQ4LjE2OTUwNjc0MDQ.*_ga_H7P4ZT52H5*MTY5NTA2NzQwMy4xLjEuMTY5NTA2OTMxNC4xMy4wLjA.
 
