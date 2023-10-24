@@ -35,7 +35,8 @@ El curso consta de cuatro unidades principales:
 Es más probable observar un ojo glaucomatoso en promedio trece veces más frecuentemente que en el población general.
 (11) Por último, en Perú se examinaron un total de 4.849 personas, y de acuerdo a PubMed, la prevalencia de ceguera fue del 2,0% (intervalo de confianza del 95%: 1,5-2,5%). Las principales causas de ceguera fueron cataratas (58,0%), glaucoma (13,7%) y degeneración macular asociada a la edad (11,5%).
 
-
+### Rando de edad más afectado
+La población más frecuente y afectada por el glaucoma son los adultos mayores, un estudio de la Revista Cubana de Oftalmología establece la edad como un factor de riesgo relevante (13), por su parte el Centro Oftalmológico de Barcelona establece que desde los 40 años se corre más riesgo de sufrir glaucoma (14)
 ### Diagnóstico y tratamientos más usados
 Dado que las personas mayores de 60 son más propensos a tener diversas enfermedades especialmente con la glaucoma, según la Clínica Universidad de Navarra, se tienen que hacer revisiones necesarias para su salud por lo que si el paciente presenta problemas con el campo visual, un nervio óptico anormal en el examen de oftalmología y una presión intraocular mayor a 21 mmHg, se realiza un estudio para descartar otras enfermedades para que sea diagnosticado con glaucoma.
 Actualmente no existe cura para la glaucoma, no obstante,exisnten unas gotas que detienen el avance de esta enfermedad, estas gotas reducen la presión del ojo y previenen el daño al nervio óptico, sin embargo no curan ni revierten los efectos de la enfermedad, como lo son la perdida de visión o el daño ya existente al nervio(Medicamentos para el glaucoma | National Eye Institute, s. f.).
@@ -191,7 +192,10 @@ https://doi.org/10.1016/j.aogh.2015.12.018
 
 11- Campos B, Cerrate A, Montjoy E, Dulanto GV, Gonzales C, Tecse A, et al. National survey on the prevalence and causes of blindness in Peru. Rev Panam Salud Publica [Internet]. 2014 [citado el 17 de octubre de 2023];36(5). Disponible en: https://pubmed.ncbi.nlm.nih.gov/25604097/
 
-
 12- 	Vleming EN, Castro M, López-Molina MI, Teus MA. Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático. Arch Soc Esp Oftalmol [Internet]. 2009 [citado el 19 de septiembre de 2023];84(5):231–6. Disponible en: https://scielo.isciii.es/scielo.php?pid=S0365-66912009000500003&script=sci_arttext
+13 . Rodríguez, L., & Herbania, Y. (2008). Evaluación de los factores de riesgo en el glaucoma primario de ángulo abierto. Revista cubana de oftalmología, 21(1), 0–0. http://scielo.sld.cu/scielo.php?pid=S0864-21762008000100013&script=sci_arttext&tlng=pt
+
+14- Jürgens, I. (2013, noviembre 28). Glaucoma. ICR; Institut Català de Retina. https://icrcat.com/enfermedades-oculares/glaucoma/
+
 
 
