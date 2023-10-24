@@ -16,7 +16,7 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 Somos estudiantes de la carrera de Ingeniería Biomedíca de Pontificia Universidad Católica del Perú (PUCP) en conjunto con la Universidad Peruana Cayetano Heredia (UPCH). Buscamos diseñar soluciones tecnológicas, las cuales sean capaces de antender una necesidad en el ámbito de la salud.
 
 ## Objetivo
-Trabajar todos de manera colaborativa, para así poder encontrar la propuesta de solución más factible para afrontar la enfermedad del *Glaucoma*, de la cual hablaremos más adelante, y veremos cómo esta afecta tanto a nivel nacional como internacional.
+Trabajar todos de manera colaborativa, para así poder encontrar la propuesta de solución más factible, y así, ser capaces de afrontar la enfermedad del *Glaucoma*, de la cual hablaremos más adelante y veremos cómo esta afecta tanto a nivel nacional como internacional.
 
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
