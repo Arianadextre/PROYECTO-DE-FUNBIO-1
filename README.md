@@ -30,13 +30,6 @@ Somos estudiantes de la carrera de Ingeniería Biomedíca de Pontificia Universi
 
 ### Objetivo del curso
 En este curso se introducirá al estudiante al desarrollo de proyectos en el campo de la ingeniería a través del diseño de soluciones que atienden una necesidad en salud, aplicando el proceso de Diseño Determinístico en Ingeniería.
-### Contenido del curso
-El curso consta de cuatro unidades principales:
-- Unidad 1: Identifica la necesidad o problema
-- Unidad 2: Crea conceptos de solución
-- Unidad 3: Desarrolla la solución
-- Unidad 4: Comunica los resultados 
-
 
 ### Prevalencia del proyecto
 (10) De acuerdo al departamento de Oftalmología llamado "Jinan People Hospital Shandong", la glaucoma es una de las enfermedades oculares con el mayor número de ceguera humana, contando con aproximadamente más de 60 millones de pacientes con glaucoma en el mundo. Está previsto que esta enfermedad aumente de 76 millones de casos en el 2020 a 112 millones en 2040.  
