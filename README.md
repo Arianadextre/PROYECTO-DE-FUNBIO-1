@@ -28,8 +28,6 @@ Somos estudiantes de la carrera de Ingeniería Biomedíca de Pontificia Universi
 - [Profesores del curso](#Profesores-del-curso)
 - [Bibliografía](#Bibliografía)
 
-### Objetivo del curso
-En este curso se introducirá al estudiante al desarrollo de proyectos en el campo de la ingeniería a través del diseño de soluciones que atienden una necesidad en salud, aplicando el proceso de Diseño Determinístico en Ingeniería.
 
 ### Prevalencia del proyecto
 (10) De acuerdo al departamento de Oftalmología llamado "Jinan People Hospital Shandong", la glaucoma es una de las enfermedades oculares con el mayor número de ceguera humana, contando con aproximadamente más de 60 millones de pacientes con glaucoma en el mundo. Está previsto que esta enfermedad aumente de 76 millones de casos en el 2020 a 112 millones en 2040.  
@@ -71,8 +69,7 @@ Actualmente no existe cura para la glaucoma, no obstante,exisnten unas gotas que
 - [X] Instrucciones detalladas.
 - [X] Batería duradera.
 
-### Propuesta de solución
-El proyecto tratará sobre un dispositivo semejante a un casco de realidad virtual que permita tomar fotos del fondo de ojo sin necesidad de un especialista presente.
+
 ### Esquema de funciones (caja negra)
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/99070b5d-82ae-4be7-a2ec-7c3aeed3dd05)
 
