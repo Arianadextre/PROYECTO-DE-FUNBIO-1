@@ -31,11 +31,6 @@ Trabajar todos de manera colaborativa, para así poder encontrar la propuesta de
 
 
 
-### Diagnóstico y tratamientos más usados
-Dado que las personas mayores de 60 son más propensos a tener diversas enfermedades especialmente con la glaucoma, según la Clínica Universidad de Navarra, se tienen que hacer revisiones necesarias para su salud por lo que si el paciente presenta problemas con el campo visual, un nervio óptico anormal en el examen de oftalmología y una presión intraocular mayor a 21 mmHg, se realiza un estudio para descartar otras enfermedades para que sea diagnosticado con glaucoma.
-Actualmente no existe cura para la glaucoma, no obstante,exisnten unas gotas que detienen el avance de esta enfermedad, estas gotas reducen la presión del ojo y previenen el daño al nervio óptico, sin embargo no curan ni revierten los efectos de la enfermedad, como lo son la perdida de visión o el daño ya existente al nervio(Medicamentos para el glaucoma | National Eye Institute, s. f.).
-
-
 ##### Producto comercial 1
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/5d339a51-50f4-4be7-9bc2-7a69ea940f28)
 
@@ -138,15 +133,7 @@ Para este dispositivo, se colocará la parte llamada “pieza de plástico cuadr
 ### Modelado 3D de la propuesta de solución 
 https://skfb.ly/oMzUv
 https://cad.onshape.com/documents/ea0e45d449db52d3bf17e17c/w/3b3595c9db5c857a61e322d3/e/05629db10fbae77f6dbfb041
-### Integrantes del proyecto
 
-- Alexander Martinez (Colaborador - Encargado de investigación) - alexander.martinez@upch.pe
-- Jairo Villalobos (Colaborador - Encargado de la página web) - jairo.villalobos@upch.pe
-- Hudson Oliva (Colaborador - Encargado de investigación) - hudson.oliva@upch.pe
-- Nicolas Herrera (Colaborador - Líder y encargado de software) - nicolas.herrera@upch.pe
-- Ariana Dextre (Colaborador) - Encargado de software) - ariana.dextre@upch.pe
-
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
 
 
 ### Profesores del curso
