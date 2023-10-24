@@ -1,4 +1,3 @@
-Bienvenidos al repositorio del Grupo 5 del curso de Fundamentos de biodiseño
 
 Proyecto: Glaucoma
 
@@ -7,7 +6,7 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 
 
 # ¡Bienvenidos al repositorio del Grupo 5 del curso de Fundamentos de biodiseño!
-
+Proyecto: Determinando el glaucoma a través de la profundidad del ojo
 
 
 ## Tabla de contenido
