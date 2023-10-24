@@ -71,9 +71,7 @@ identificar: el dispositivo identifica  la imagen que recibe
 procesar: esta funcion procesa los datos del sistema
 medir: esta funcion mide los datos recibidos
 mostrar: se muestran   de los datos obtenidos
-### Matriz morfologica
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/393f2969-044d-4de1-aee8-2aee79b33226)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/d18c931c-7102-4135-b4ac-bc500f93bcdc)
+
 
 
 
