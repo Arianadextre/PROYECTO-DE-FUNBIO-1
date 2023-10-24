@@ -42,10 +42,6 @@ Dado que las personas mayores de 60 son más propensos a tener diversas enfermed
 Actualmente no existe cura para la glaucoma, no obstante,exisnten unas gotas que detienen el avance de esta enfermedad, estas gotas reducen la presión del ojo y previenen el daño al nervio óptico, sin embargo no curan ni revierten los efectos de la enfermedad, como lo son la perdida de visión o el daño ya existente al nervio(Medicamentos para el glaucoma | National Eye Institute, s. f.).
 
 
-### Proyectos novedosos relacionados al proyecto
-La retinopatía diabética (RD) es una complicación habitual de la diabetes y representa la principal razón de pérdida severa de visión y ceguera en individuos en su etapa laboral, lo que trae consigo impactos socioeconómicos y en la calidad de vida. Es posible detectar biomarcadores vinculados a la RD en diversas áreas como sangre, retina, vítreo, humor acuoso, y últimamente en lágrimas. Dado que la retina ocupa una mínima fracción de la masa corporal total, un biomarcador que circule relacionado a la RD debe ser altamente específico. Los biomarcadores situados directamente en el área afectada suelen ser más precisos para señalar problemas retinianos. No obstante, extraer muestras del liquido intraocular o humor acuoso, vítreo o retina es una técnica invasiva que puede conllevar serias complicaciones. Por otro lado, el estudio de las lágrimas como medio para identificar biomarcadores representa una técnica innovadora y menos intrusiva, que se perfila como una línea de investigación con potencial. Para recolectar lágrimas, se emplean pequeños tubos capilares o tiras de papel de Schirmer. Diversas investigaciones han establecido una relación entre la presencia de ciertos biomarcadores en las lágrimas, especialmente TNF-α y VEGF, y el nivel de RD.
-### Estado del arte
-#### Productos comerciales
 ##### Producto comercial 1
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/5d339a51-50f4-4be7-9bc2-7a69ea940f28)
 
