@@ -11,6 +11,12 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 ## Proyecto: Determinando el glaucoma a través de la profundidad del ojo
 
 
+
+# ¿Quiénes somos?
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
+
+
+
 ## Tabla de contenido
 - [Objetivo del curso](#Objetivo-del-curso)
 - [Contenido del curso](#Contenido-del-curso)
@@ -153,7 +159,6 @@ https://cad.onshape.com/documents/ea0e45d449db52d3bf17e17c/w/3b3595c9db5c857a61e
 - Nicolas Herrera (Colaborador - Líder y encargado de software) - nicolas.herrera@upch.pe
 - Ariana Dextre (Colaborador) - Encargado de software) - ariana.dextre@upch.pe
 
-### Foto grupal
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
 
 
