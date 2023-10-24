@@ -21,8 +21,6 @@ El curso consta de cuatro unidades principales:
 - Unidad 3: Desarrolla la solución
 - Unidad 4: Comunica los resultados 
 
-### Incidencia del proyecto
-Un estudio de 12 años realizado por la Academia Mexicana de Cirugía sobre pacientes con diabetes mellitus tipo 2 reveló datos alarmantes. Se detectó que el 14.3% de los pacientes desarrollaron retinopatía diabética. La edad promedio al inicio del estudio fue de 53.8 años, con una duración promedio de la diabetes tipo 2 de 9 años. Tras 12 años de seguimiento, se excluyó a 35 pacientes del análisis. Se observaron incidencias del 23%, 48% y 71% de eventos de retinopatía diabética a los 3, 6 y 12 años, respectivamente. La progresión de la enfermedad también fue significativa, con tasas del 56%, 70% y 74% en los mismos períodos de tiempo. La retinopatía diabética proliferativa alcanzó un 32% a los 12 años. La concentración media de glucosa en sangre fue de 193 mg/dl, y la hemoglobina glucosilada promedió un 11%. La mortalidad fue del 45%, siendo la mitad de estos fallecimientos atribuibles a un infarto agudo de miocardio.
 
 ### Prevalencia del proyecto
 (10) De acuerdo al departamento de Oftalmología llamado "Jinan People Hospital Shandong", la glaucoma es una de las enfermedades oculares con el mayor número de ceguera humana, contando con aproximadamente más de 60 millones de pacientes con glaucoma en el mundo. Está previsto que esta enfermedad aumente de 76 millones de casos en el 2020 a 112 millones en 2040.  
@@ -30,26 +28,6 @@ Un estudio de 12 años realizado por la Academia Mexicana de Cirugía sobre paci
 Es más probable observar un ojo glaucomatoso en promedio trece veces más frecuentemente que en el población general.
 (11) Por último, en Perú se examinaron un total de 4.849 personas, y de acuerdo a PubMed, la prevalencia de ceguera fue del 2,0% (intervalo de confianza del 95%: 1,5-2,5%). Las principales causas de ceguera fueron cataratas (58,0%), glaucoma (13,7%) y degeneración macular asociada a la edad (11,5%).
 
-### Rango de edad más afectado
-El objetivo de este item es analizar estudios precedentes para encontrar información fiable sobre los rangos de edad más afectados por la retinopatía diabética. El análisis de los estudios que se encuentran a continuación estan ordenados por antiguedad, siendo los primeros las investigaciones más actuales.
-#### Primer estudio (Colombia, 2022)
-En el año 2022, la revista médica de la Universidad de Antioquia hizo un estudio sobre las complicaciones de la diabetes (retinopatía diabética y edema macular) que causan discapacidad visual en colombianos, de 1203 diabéticos tamizados, el 7,7% tenía diabetes tipo 1 y el 89,2% tenía diabetes tipo 2, además se encontró la alarmante relación de que 1 de 3 personas con diabetes tipo 2 sufre de retinopatía diabética, la mediana del tiempo fue de 63 años, el tiempo de evolución de la enfermedad fue de 15 años con un rango intercuartílico (Medida de variabilidad) entre 7 y 19,5 años [5]. 
-Tabla 1
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/9bca4a63-785b-49d8-8b21-cb35aa58f2d7)
-Nota. Esta tabla ha sido adaptada de "Retinopatía diabética y edema macular diabético en población de Antioquia. Estudio transversal", por Bravo et al. 2022. Revista Médica Universidad de Antioquia, Vol 35 p.102Z
-#### Segundo estudio. (Chile, 2019)
-En el 2019 la Revista Chilena de Salud Pública publica un estudio titulado "Retinopatía diabética y edema macular diabético: prevalencia en una población de atención primaria de Antofagasta" donde indica que el rango se edad predominante fue de 40 a 64 años con un porcentaje del 60,27% [6]
-Tabla 2
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/9c237721-8232-4b62-944e-c70454c41518)
-Nota. Esta tabla ha sido adaptada de "RETINOPATÍA DIABÉTICA Y EDEMA MACULAR DIABÉTICO: PREVALENCIA EN UNA POBLACIÓN DE ATENCIÓN PRIMARIA DE ANTOFAGASTA", por Soto, Cruz, 2019. Revista Chilena Salud Publica, Vol (22)p. 158
-#### Tercer estudio  (Perú, 2003)
-En el año 2003 la Universidas Nacional de San Antonio Abad 
- evaluó a 160 pacientes con diabetes 2 en la ciudad de Cusco que pertenecian al Programa de Ciabetes Mellitus EsSALUD y se registró que para un rango de edad entre 40 y 84 años el 35,62 % (57 pacientes) padecía de ritonopatia diabética [7]
-Tabla 3
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/b6881ec2-1208-4e2f-8de9-319c518584f9)
-Nota. Esta tabla ha sido adaptada de "FACTORES DE RIESGO DE RETINOPATÍA DIABÉTICA EN DIABÉTICOS TIPO 2 EN LA ALTURA", por Espinoza et al. 2003. Revista Semestral de la Facultad de Medicina Humana p.43
-#### Conclusiones
-En sintesís decimos que aunque la retinopatía diabética puede afectar a cualquier rango de edad, por lo general los adultos y adultos mayores (40 años a más) son los más afectados.
 
 ### Diagnóstico y tratamientos más usados
 Dado que las personas mayores de 60 son más propensos a tener diversas enfermedades especialmente con la glaucoma, según la Clínica Universidad de Navarra, se tienen que hacer revisiones necesarias para su salud por lo que si el paciente presenta problemas con el campo visual, un nervio óptico anormal en el examen de oftalmología y una presión intraocular mayor a 21 mmHg, se realiza un estudio para descartar otras enfermedades para que sea diagnosticado con glaucoma.
