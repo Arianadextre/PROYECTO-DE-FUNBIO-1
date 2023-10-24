@@ -128,9 +128,7 @@ Para este dispositivo, se colocará la parte llamada “pieza de plástico cuadr
 
 [Schematic_Funbiogrupo5_2023-10-18.pdf](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/files/13031911/Schematic_Funbiogrupo5_2023-10-18.pdf)
 
-### Modelado 3D de la propuesta de solución 
-https://skfb.ly/oMzUv
-https://cad.onshape.com/documents/ea0e45d449db52d3bf17e17c/w/3b3595c9db5c857a61e322d3/e/05629db10fbae77f6dbfb041
+
 
 
 
