@@ -7,7 +7,7 @@ Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1
 
 
 # ¡Bienvenidos al repositorio del Grupo 5 del curso de Fundamentos de biodiseño!
-## Proyecto: Determinando el glaucoma a través de la profundidad del ojo
+## Proyecto: Determinando el glaucoma 
 
 
 
@@ -18,18 +18,17 @@ Somos estudiantes de la carrera de Ingeniería Biomedíca de Pontificia Universi
 ## Objetivo
 Trabajar todos de manera colaborativa, para así poder encontrar la propuesta de solución más factible, y así, ser capaces de afrontar la enfermedad del *Glaucoma*, de la cual hablaremos más adelante y veremos cómo esta afecta tanto a nivel nacional como internacional.
 
-## Un poco acerca de Nosotros
+##  El equipo 5
+
+- Alexander Martinez (Colaborador - Encargado de investigación) - alexander.martinez@upch.pe
+- Jairo Villalobos (Colaborador - Encargado de la página web) - jairo.villalobos@upch.pe
+- Hudson Oliva (Colaborador - Encargado de investigación) - hudson.oliva@upch.pe
+- Nicolas Herrera (Colaborador - Líder y encargado de software) - nicolas.herrera@upch.pe
+- Ariana Dextre (Colaborador) - Encargado de software) - ariana.dextre@upch.pe
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
 
 
-
-
-### Prevalencia del proyecto
-(10) De acuerdo al departamento de Oftalmología llamado "Jinan People Hospital Shandong", la glaucoma es una de las enfermedades oculares con el mayor número de ceguera humana, contando con aproximadamente más de 60 millones de pacientes con glaucoma en el mundo. Está previsto que esta enfermedad aumente de 76 millones de casos en el 2020 a 112 millones en 2040.  
-(9) Actualmente, en el mundo se estima que existen 80 millones de personas que padecen glaucoma y que este, representa el 2% de los casos de ceguera a nivel mundial. (10) A su vez, de esta cifra mencionada, el 2% aproximadamente rondan los 40 años, y la estadística aumenta al 4%, en la cual se encuentran las personas de 50 años a 80 años.
-Es más probable observar un ojo glaucomatoso en promedio trece veces más frecuentemente que en el población general.
-(11) Por último, en Perú se examinaron un total de 4.849 personas, y de acuerdo a PubMed, la prevalencia de ceguera fue del 2,0% (intervalo de confianza del 95%: 1,5-2,5%). Las principales causas de ceguera fueron cataratas (58,0%), glaucoma (13,7%) y degeneración macular asociada a la edad (11,5%).
 
 ### Rando de edad más afectado
 La población más frecuente y afectada por el glaucoma son los adultos mayores, un estudio de la Revista Cubana de Oftalmología establece la edad como un factor de riesgo relevante (13), por su parte el Centro Oftalmológico de Barcelona establece que desde los 40 años se corre más riesgo de sufrir glaucoma (14)
