@@ -27,14 +27,6 @@ Encontrar la propuesta de solución más factible trabajando todos de manera col
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
 
-### Tabla de valoracion
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/d3a57860-8887-476c-b80a-a55a2533b200)
-
-
-### Conclusion
-La propuesta número 2 fue la ganadora ya que a pesar de poseer un costo de ensamblaje mayor a otras opciones, su facilidad de uso y la seguridad que brinda al paciente, la hacen una buena opción de desarrollo para tratar la retinopatía diabética. Además sus características la hacen útil tanto para el uso de un ciudadano común como el de personal médico, por su tamaño pequeño y ser integrable a un aparato cotidiano como serian los celulares, tendría un fácil acceso al almacenamiento de la información recolectada.
-
-
 ### Profesores del curso
 
 - Paulo Camilo Alberto Vela Anton
