@@ -30,24 +30,6 @@ Trabajar todos de manera colaborativa, para así poder encontrar la propuesta de
 
 
 
-
-##### Producto comercial 1
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/5d339a51-50f4-4be7-9bc2-7a69ea940f28)
-
-
-
-##### Producto comercial 2
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/425fa802-36ec-4b63-9ba2-8e693385ba93)
-
-
-
-##### Producto comercial 3
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/dfcdc133-b694-471e-979e-4a49fa23f5a2)
-
-
-
-
-
 ### Esquema de funciones (caja negra)
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/99070b5d-82ae-4be7-a2ec-7c3aeed3dd05)
 
