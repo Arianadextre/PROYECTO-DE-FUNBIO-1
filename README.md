@@ -16,7 +16,7 @@
 Somos estudiantes de la carrera de Ingeniería Biomedíca de Pontificia Universidad Católica del Perú (PUCP) en conjunto con la Universidad Peruana Cayetano Heredia (UPCH). Buscamos diseñar soluciones tecnológicas, las cuales sean capaces de antender una necesidad en el ámbito de la salud.
 
 ## Objetivo
-Trabajar todos de manera colaborativa, para así poder encontrar la propuesta de solución más factible, y así, ser capaces de afrontar la enfermedad del *Glaucoma*, de la cual hablaremos más adelante y veremos cómo esta afecta tanto a nivel nacional como internacional.
+Encontrar la propuesta de solución más factible Trabajando todos de manera colaborativa, y así, ser capaces de afrontar la enfermedad del *Glaucoma*, de la cual hablaremos más adelante y veremos cómo esta afecta tanto a nivel nacional como internacional.
 
 ##  El equipo 5
 
