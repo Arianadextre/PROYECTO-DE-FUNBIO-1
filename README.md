@@ -3,7 +3,7 @@
 Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1WOzxmcj5gEM_vUs/edit?usp=drive_link&ouid=104110057600449291254&rtpof=true&sd=true
 
 
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/594d933e-ba4a-40ed-b544-edb8c759a2dd)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/191b05a1-a2ed-410e-9169-e940617c5fef)
 
 
 # ¡Bienvenidos al repositorio del Grupo 5 del curso de Fundamentos de biodiseño!
