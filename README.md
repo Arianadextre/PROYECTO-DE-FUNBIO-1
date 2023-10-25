@@ -105,13 +105,6 @@ El casco que diseñamos tiene como función principal recopilar imágenes del fo
 Para este dispositivo, se colocará la parte llamada “pieza de plástico cuadrangular hueco” frente al ojo que se desea analizar, una vez colocado en dicha posición procede a activar el botón de activación (naturalmente ya debe estar encendido el dispositivo) para que realice una serie de fotografías desde ángulos ligeramente diferentes a través de los dos sensores CMOS, para que luego dichas tomas se guarden en la memoria SD adicionada al Arduino y se pueda enviar a un respectivo personal de la salud. Todo esto realizado por la misma persona a la que se le realiza la revisión, pues el dispositivo toma varias fotos de diferentes ángulos para que en alguna de ellas encuentre el fondo de ojo sin necesidad de estar rebuscando con ayuda de una segunda persona.
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/486dae51-86c5-4ada-bcf9-707c06099c42)
 
-### Tablas de Valoración Técnica y Económica:
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/127434c1-d99d-497f-828d-6107e673ee37)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/874368ba-2fde-48c6-9376-a44929f02c9a)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/d81559c6-c2a6-4e9d-b98f-41f3c46a1c33)
-
-
-
 
 ### Profesores del curso
 
