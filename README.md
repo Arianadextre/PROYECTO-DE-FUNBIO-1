@@ -36,12 +36,6 @@ Si deseas conocer un poco más acerca de nuestro proyecto, puedes darle click al
 - Jose Alonso Cáceres del Aguila
 
 
-### Bibliografía
-
-4-	Medicamentos para el glaucoma | National Eye Institute. (s. f.). https://www.nei.nih.gov/espanol/Glaucoma/medicamentos-para-el-glaucoma#:~:text=El%20tratamiento%20m%C3%A1s%20com%C3%BAn%20para,pero%20pueden%20evitar%20que%20empeore.
-
-5-Glaucoma | Prevención, diagnóstico y tratamiento | CUN. (s. f.). https://www.cun.es. https://www.cun.es/enfermedades-tratamientos/enfermedades/glaucoma#:~:text=Las%20pruebas%20que%20se%20realizan,es%20necesario%20dilatar%20el%20ojo.
-
 
 
 
