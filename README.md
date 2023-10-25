@@ -58,30 +58,6 @@ mostrar: se muestran   de los datos obtenidos
 La propuesta número 2 fue la ganadora ya que a pesar de poseer un costo de ensamblaje mayor a otras opciones, su facilidad de uso y la seguridad que brinda al paciente, la hacen una buena opción de desarrollo para tratar la retinopatía diabética. Además sus características la hacen útil tanto para el uso de un ciudadano común como el de personal médico, por su tamaño pequeño y ser integrable a un aparato cotidiano como serian los celulares, tendría un fácil acceso al almacenamiento de la información recolectada.
 
 
-### ENTREGABLE 4
-
-### Boceto 1
-
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/078b0acf-27ca-40da-8c2c-dd2581c3f2e9)
-
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/3ae03ce5-c91e-4345-9bbe-1f0ad6114797)
-
-
-*Funcionamiento*: En este dispositivo, se necesitarán de dos personas: un especialista el cual usará el lente y el paciente.
-A través de las cámaras OV7670, las cuales contienen un sensor CMO cada una, se registrarán imágenes a profundidad de los ojos, las que serán procesadas por el arduino UNO; y este se encargará a través de la la computadora (y su programación) de encender los leds cuando se detecte la anomalía presente. Finalmente, una vez sean capturadas dichas fotografías, estas aparecerán en la computadora en blanco y negro, y así puedan ser estudiadas por el especialista.
-
-
-
-
-*Descripción del funcionamiento*:
-
-El casco que diseñamos tiene como función principal recopilar imágenes del fondo de ojo de un paciente con glaucoma. La luz influye profundamente en observar y capturar a detalle el fondo de ojo, por lo cual el casco contiene 4 leds en cada ojo para  mejorar la iluminación y contraer la pupila para obtener una mejor captura, además usaremos una rueda que moverá el sensor CMO en los ángulos más indispensables mientras las imágenes son grabadas  y enviadas por bluetooth gracias a la conexión con el arduino, en un aplicativo en el celular obtendremos las imágenes del ojo que serán enviadas a un oftalmólogo y guardadas en su historia clínica.
-
-*Lista de despiece*:
-
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/80dea25c-2dbb-4233-821e-1556af1c9778)
-
-
 ### Profesores del curso
 
 - Paulo Camilo Alberto Vela Anton
