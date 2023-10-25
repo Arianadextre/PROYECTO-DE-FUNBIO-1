@@ -95,13 +95,6 @@ La propuesta número 2 fue la ganadora ya que a pesar de poseer un costo de ensa
 *Funcionamiento*: En este dispositivo, se necesitarán de dos personas: un especialista el cual usará el lente y el paciente.
 A través de las cámaras OV7670, las cuales contienen un sensor CMO cada una, se registrarán imágenes a profundidad de los ojos, las que serán procesadas por el arduino UNO; y este se encargará a través de la la computadora (y su programación) de encender los leds cuando se detecte la anomalía presente. Finalmente, una vez sean capturadas dichas fotografías, estas aparecerán en la computadora en blanco y negro, y así puedan ser estudiadas por el especialista.
 
-### Boceto 2
-
-*Boceto en conjunto*:
-
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/249be7e5-4d01-4266-a97b-e253493883b1)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/702ac49d-5bfd-4c55-b36d-320ff04cbbed)
-
 
 
 
