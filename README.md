@@ -16,7 +16,7 @@ Somos estudiantes de la carrera de Ingeniería Biomedíca de Pontificia Universi
 
 ## Objetivo
 Encontrar la propuesta de solución más factible trabajando todos de manera colaborativa, y así, ser capaces de afrontar la enfermedad del *Glaucoma*, de la cual hablaremos más adelante y veremos cómo esta afecta tanto a nivel nacional como internacional.
-Si deseas conocer un poco más acerca de nuestro proyecto, puedes darle click al siguiente enlace:
+Si deseas conocer un poco más acerca de nuestro proyecto, puedes darle click al siguiente enlace: https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/tree/main/Listado%20de%20entregables
 
 ##  El equipo 5
 
