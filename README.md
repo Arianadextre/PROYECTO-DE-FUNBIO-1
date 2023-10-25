@@ -7,7 +7,7 @@
 
 
 # ¡Bienvenidos al repositorio del Grupo 5 del curso de Fundamentos de biodiseño!
-## Proyecto: Dispositivo de detección del glaucoma
+## Proyecto: Modelo de lente de Realidad Virtual para Detección de Glaucoma a Través del Fondo de Ojo 
 
 
 ## ¿Quiénes somos?
@@ -26,29 +26,6 @@ Encontrar la propuesta de solución más factible trabajando todos de manera col
 - Ariana Dextre (Colaborador) - Encargado de software) - ariana.dextre@upch.pe
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018747/2fdf4355-d1e9-4c19-b177-c2106f5e71fb)
-
-
-
-### Esquema de funciones (caja negra)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/99070b5d-82ae-4be7-a2ec-7c3aeed3dd05)
-
-
-
-
-regular:regular la energia eléctrica que ingresa a los componentes
-
-accionar:esta funcion genera la acción necesaria para activar el dispositivo
-
-identificar: el dispositivo identifica  la imagen que recibe
-
-procesar: esta funcion procesa los datos del sistema
-
-medir: esta funcion mide los datos recibidos
-
-mostrar: se muestran   de los datos obtenidos
-
-
-
 
 ### Tabla de valoracion
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143018597/d3a57860-8887-476c-b80a-a55a2533b200)
