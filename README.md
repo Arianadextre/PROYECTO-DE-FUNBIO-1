@@ -7,7 +7,7 @@
 
 
 # ¡Bienvenidos al repositorio del Grupo 5 del curso de Fundamentos de biodiseño!
-## Proyecto: Sistema de detección del glaucoma
+## Proyecto: Dispositivo de detección del glaucoma
 
 
 ## ¿Quiénes somos?
