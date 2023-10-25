@@ -47,17 +47,6 @@ Trabajar todos de manera colaborativa, para así poder encontrar la propuesta de
 
 
 
- 
-### Funcionales ¿Qué debe hacer mi diseño?
-- [X] Conexión con aplicativo, el cuál brinda información detallada de la evaluación de la hinchazón de la macula del usuario.
-- [X] Procesador óptico de ondas infrarrojas para emitir ondas que detectan las venas. 
-- [X] Lectura y proyección de venas en tiempo real, aún cuando el paciente se mueve.
-
-### No Funcionales ¿Qué propiedades debe poseer nuestro diseño?
-- [X] Transporte eficaz.
-- [X] Instrucciones detalladas.
-- [X] Batería duradera.
-
 
 ### Esquema de funciones (caja negra)
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/99070b5d-82ae-4be7-a2ec-7c3aeed3dd05)
