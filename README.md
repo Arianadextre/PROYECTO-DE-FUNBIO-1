@@ -96,15 +96,10 @@ A través de las cámaras OV7670, las cuales contienen un sensor CMO cada una, s
 
 ### Boceto 2
 
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/0783e54d-e1e9-42df-a0a5-75dfde7c0c34)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/4d56d74f-895a-4a59-9c12-564858af337e)
-
-
-
-
 *Boceto en conjunto*:
 
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/4df5882b-7aaa-4cce-8b41-cef1caca746b)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/0783e54d-e1e9-42df-a0a5-75dfde7c0c34)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/4d56d74f-895a-4a59-9c12-564858af337e)
 
 
 *Descripción del funcionamiento*:
