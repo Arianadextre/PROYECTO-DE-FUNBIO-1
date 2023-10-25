@@ -51,7 +51,6 @@ https://doi.org/10.1016/j.aogh.2015.12.018
 
 8- https://www.semanticscholar.org/paper/Factores-de-riesgo-de-retinopatía-diabética-en-tipo-Espinoza-Sota/a98fc51581b49a5ccdd06d9fc6e059e348c82558
 
-12- 	Vleming EN, Castro M, López-Molina MI, Teus MA. Estudio de prevalencia de retinopatía diabética en pacientes diabéticos mediante retinógrafo no midriático. Arch Soc Esp Oftalmol [Internet]. 2009 [citado el 19 de septiembre de 2023];84(5):231–6. Disponible en: https://scielo.isciii.es/scielo.php?pid=S0365-66912009000500003&script=sci_arttext
 13 . Rodríguez, L., & Herbania, Y. (2008). Evaluación de los factores de riesgo en el glaucoma primario de ángulo abierto. Revista cubana de oftalmología, 21(1), 0–0. http://scielo.sld.cu/scielo.php?pid=S0864-21762008000100013&script=sci_arttext&tlng=pt
 
 14- Jürgens, I. (2013, noviembre 28). Glaucoma. ICR; Institut Català de Retina. https://icrcat.com/enfermedades-oculares/glaucoma/
