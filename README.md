@@ -99,8 +99,10 @@ A través de las cámaras OV7670, las cuales contienen un sensor CMO cada una, s
 
 *Boceto en conjunto*:
 
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/0783e54d-e1e9-42df-a0a5-75dfde7c0c34)
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/4d56d74f-895a-4a59-9c12-564858af337e)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/249be7e5-4d01-4266-a97b-e253493883b1)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/702ac49d-5bfd-4c55-b36d-320ff04cbbed)
+
+
 
 
 *Descripción del funcionamiento*:
@@ -109,7 +111,8 @@ El casco que diseñamos tiene como función principal recopilar imágenes del fo
 
 *Lista de despiece*:
 
-![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/bffb8d92-019d-4bc4-8217-aac2239d6d2a)
+![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019275/80dea25c-2dbb-4233-821e-1556af1c9778)
+
 
 
 
