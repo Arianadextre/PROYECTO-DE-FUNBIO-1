@@ -55,10 +55,15 @@ Trabajar todos de manera colaborativa, para así poder encontrar la propuesta de
 
 
 regular:regular la energia eléctrica que ingresa a los componentes
-accionar:esta funcion genera la acción necesaria para activar el dispositivo 
+
+accionar:esta funcion genera la acción necesaria para activar el dispositivo
+
 identificar: el dispositivo identifica  la imagen que recibe
+
 procesar: esta funcion procesa los datos del sistema
+
 medir: esta funcion mide los datos recibidos
+
 mostrar: se muestran   de los datos obtenidos
 
 
