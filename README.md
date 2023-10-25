@@ -41,8 +41,6 @@ Encontrar la propuesta de solución más factible trabajando todos de manera col
 
 5-Glaucoma | Prevención, diagnóstico y tratamiento | CUN. (s. f.). https://www.cun.es. https://www.cun.es/enfermedades-tratamientos/enfermedades/glaucoma#:~:text=Las%20pruebas%20que%20se%20realizan,es%20necesario%20dilatar%20el%20ojo.
 
-7- https://pdfs.semanticscholar.org/a638/9e311efcce207c99dd3eaa796beaa2fa8620.pdf?_gl=1*1a2un1e*_ga*MTM4Njk0MzQ4LjE2OTUwNjc0MDQ.*_ga_H7P4ZT52H5*MTY5NTA2NzQwMy4xLjEuMTY5NTA2OTMxNC4xMy4wLjA.
-
 
 
 
