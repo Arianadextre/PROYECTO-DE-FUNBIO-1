@@ -1,6 +1,5 @@
 
 
-Link del acta semanal: https://docs.google.com/spreadsheets/d/1fDX94h6qzCRgyG9p1WOzxmcj5gEM_vUs/edit?usp=drive_link&ouid=104110057600449291254&rtpof=true&sd=true
 
 
 ![image](https://github.com/Arianadextre/PROYECTO-DE-FUNBIO-1/assets/143019386/573b708a-189b-4f4f-b55b-4b443c69c8d5)
